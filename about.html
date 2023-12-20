@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>About - Microbiome Graph Visualization</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="top-bar">
+        <div class="toolbar">
+            <a href="index.html" class="home-link">Home</a>
+            <span class="page-title">About</span>
+        </div>
+    </div>
+
+    <div class="content">
+        <h1 class="main-title">About the Microbiome Graph Visualization Tool</h1>
+<!--         <div class="section">
+            <p>
+                This visualization tool is a key component of the Microbiome Constellation project, spearheaded by TMS lab. 
+                It offers an interactive platform to navigate and understand intricate graph data in microbiome research. 
+            </p>
+        </div> -->
+        <div class="section">
+            <p>
+                Our visualization is based on 77 publicly available datasets from the curatedMetagenomicData package 
+                (see <a href="https://waldronlab.io/curatedMetagenomicDataCuration/index.html" target="_blank">here</a>).
+                We focus on data from patients with various health states, including a healthy baseline, Inflammatory Bowel Disease (IBD), 
+                Type 2 Diabetes (T2D), Colorectal Cancer (CRC), and adenoma. The database encompasses over 14,000 samples 
+                collected from 36 countries.
+            </p>
+        </div>
+        <div class="section">
+            <p>
+                To construct the graph, we employed the graphical lasso technique (more information available 
+                <a href="https://en.wikipedia.org/wiki/Graphical_lasso" target="_blank">here</a>). This method helps identify 
+                direct relationships between microbial species. For instance, if species A and B are directly connected, 
+                alterations in A can have a direct impact on B, and vice versa, regardless of other variables.
+            </p>
+        </div>
+        <div class="disclaimer">
+            <h2>Disclaimer</h2>
+            <p>
+                The information and results presented here are part of ongoing research and should be interpreted with caution. 
+                They are intended for academic and research purposes only and are not meant for clinical or diagnostic use. 
+                We strive for accuracy, but the dynamic nature of scientific research means that findings and interpretations 
+                may evolve over time.
+            </p>
+        </div>
+        <div class="section">
+            <h3>Contact:</h3>
+            <p>
+                vadim.borisov (at) uni-tuebingen.de.
+            </p>
+        </div>
+    </div>
+
+    <div class="bottom-bar">
+        <span>Microbiome Constellation &copy;<script>document.write(new Date().getFullYear());</script> TMS lab, University Hospital Tuebingen, Germany</span>
+    </div>
+</body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Gut Microbiome Constellation</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="top-bar">
+        <div class="toolbar">
+
+            <button id="resetGraph" class="reset-button">Reset Graph</button>
+
+            <input type="text" id="featureInput" placeholder="Enter species name (e.g., Actinomyces oris)" list="featureList">
+            <datalist id="featureList"></datalist>
+            <button id="filterButton">Show Connections</button>
+            
+            <!-- Threshold label and slider -->
+            <div class="threshold-container">
+                <label for="thresholdSlider" class="threshold-label">Threshold</label>
+                <input type="range" id="thresholdSlider" min="0.05" max="1" step="0.01" value="0.75">
+                <span id="thresholdValue">0.75</span>
+            </div>
+
+            <button id="zoom_in" class="icon-button">
+                <img src="in.png" alt="Zoom In">
+            </button>
+            <button id="zoom_out" class="icon-button">
+                <img src="out.png" alt="Zoom Out">
+            </button>
+
+            <!-- Link to the About page -->
+            <a href="about.html" class="toolbar-button">About</a>
+        </div>
+    </div>
+
+    <div id="graph"></div>
+
+    <div class="bottom-bar">
+        <span>Microbiome Constellation &copy;<script>document.write(new Date().getFullYear());</script> TMS lab, University Hospital Tuebingen, Germany</span>
+    </div>
+
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

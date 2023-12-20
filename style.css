@@ -1,0 +1,238 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; /* Add Helvetica Neue */
+}
+
+.top-bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #bcac74;
+    padding: 10px;
+}
+
+.toolbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    width: 100%;
+}
+
+
+.toolbar input, .toolbar button {
+    margin: 5px;
+}
+
+#thresholdSlider {
+    width: 80%; /* Adjust to your preference */
+}
+
+#zoom_in, #zoom_out {
+    /* Removed fixed positioning */
+}
+
+#graph {
+    width: 100%;
+    height: calc(100vh - 100px); /* Adjust height based on total header/footer height */
+    overflow: auto;
+}
+
+.reset-button {
+    background-color: #bcac74;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    margin-right: auto;
+    cursor: pointer;
+    font-size: 16px; /* Explicitly set the font size */
+}
+
+.bottom-bar {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #d3c992; /* Lighter shade of #bcac74 */
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.links line {
+    stroke: #999;  /* Gray color for the links */
+    stroke-opacity: 0.6;
+    stroke-width: 4;  /* Makes the links more visible */
+}
+
+.nodes circle {
+    stroke: #fff;  /* White border for the nodes */
+    stroke-width: 1.5px;
+    fill: blue;  /* Fill color for the nodes */
+}
+
+.labels text {
+    font-size: 12px;
+    fill: #333;  /* Color for the text labels */
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    .toolbar {
+        flex-direction: column;
+    }
+
+    #graph {
+        height: calc(100vh - 150px); /* Adjust for smaller screens */
+    }
+}
+
+.icon-button img {
+    height: 20px; /* Adjust the size to fit your design */
+    width: auto;
+    display: block; /* This will allow you to center it if needed */
+}
+
+/* Ensure the buttons don't take up too much space */
+.icon-button {
+    width: auto; /* or you can set a specific size */
+    height: auto; /* or you can set a specific size */
+    padding: 2px; /* Adjust padding to your preference */
+    margin: 0 10px; /* Add some space around the buttons */
+    display: inline-block; /* This will treat the button like an image */
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: black; /* Change icon color */
+
+}
+
+/* Add more specific media queries if you want to adjust sizes on different screen sizes */
+@media (max-width: 768px) {
+    .icon-button img {
+        height: 30px; /* Smaller size for smaller screens */
+    }
+}
+
+/* Styles for About Page */
+.content {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+}
+
+.home-link, .page-title {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    font-weight: bold;
+}
+
+.home-link:hover {
+    text-decoration: underline;
+}
+
+.page-title {
+    margin-left: 20px;
+}
+
+/* Style for toolbar buttons and links */
+.toolbar-button {
+    color: white;
+    background-color: transparent;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+}
+
+.toolbar-button:hover {
+    color: #ddd; /* Light grey color on hover */
+}
+
+/* Additional CSS rules */
+#thresholdValue {
+    color: white; /* Set text color to white */
+    margin-left: 10px; /* Space between slider and value */
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; /* Specify font-family */
+
+}
+
+.threshold-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Aligns children to the center */
+}
+
+.threshold-label {
+    text-align: center; /* Centers the text of the label */
+    display: block; /* Makes label take full width */
+    margin-bottom: 5px; /* Space between label and slider */
+    font-size: 12px;
+    fill: #333;
+    color: white;
+}
+
+
+.icon-button img {
+    filter: brightness(0) invert(1); /* Adjust brightness and invert colors */
+}
+
+/* Enhancements for visual appeal */
+.content {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.main-title {
+    color: #5c6464; /* Earthy green for titles */
+    text-align: center;
+}
+
+.section {
+    margin-bottom: 30px;
+}
+
+.section img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.section p {
+    line-height: 1.6;
+    color: #333;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.disclaimer {
+    background-color: #e8e8e8;
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 30px;
+}
+
+.disclaimer h2 {
+    color: #cc0000; /* Reddish tone for importance */
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .content {
+        margin: 10px;
+        padding: 15px;
+    }
+}
