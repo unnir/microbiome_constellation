@@ -75,6 +75,8 @@ body, html {
 .labels text {
     font-size: 12px;
     fill: #333;  /* Color for the text labels */
+    font-style: italic; /* Make the labels italic */
+
 }
 
 /* Responsive Design */
