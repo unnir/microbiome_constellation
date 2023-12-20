@@ -238,3 +238,27 @@ body, html {
         padding: 15px;
     }
 }
+
+.studies-section {
+    /* Style for the section */
+    margin-bottom: 20px;
+}
+
+.studies-columns {
+    /* Create a flex container */
+    display: flex;
+    justify-content: space-between;
+}
+
+.column {
+    /* Style for each column */
+    flex: 1; /* Each column takes equal width */
+    margin: 10px; /* Spacing between columns */
+    padding: 5px; /* Padding inside each column */
+}
+
+.column p {
+    /* Style for paragraphs inside columns */
+    margin: 5px 0; /* Spacing between study names */
+}
+
