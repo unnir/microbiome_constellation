@@ -262,3 +262,39 @@ body, html {
     margin: 5px 0; /* Spacing between study names */
 }
 
+/* Styles for the Floating Info Window */
+.info-window {
+    position: fixed;
+    width: 300px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8); /* Light and semi-transparent background */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); /* Softer shadow */
+    top: 150px;
+    right: 20px;
+    z-index: 100;
+    display: none; /* Initially hidden */
+}
+
+.info-window-content {
+    text-align: left;
+    color: #333; /* Dark grey text for readability */
+}
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.close:hover {
+    color: black;
+}
+
+/* Optional: Transparent background for close button for a cleaner look */
+.close {
+    background-color: transparent;
+    border: none;
+}

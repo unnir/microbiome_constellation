@@ -248,12 +248,15 @@ function updateGraph(featureName) {
     }
 
     // Adjusting forces for a sparser layout
-    simulation = d3.forceSimulation()
-        .force("link", d3.forceLink(filteredLinks).id(d => d.id)
-            .distance(100) // Increased distance
-            .strength(0.35)) // Adjust strength as needed
-        .force("charge", d3.forceManyBody().strength(-100)) // More negative charge
-        .force("center", d3.forceCenter(width / 2, height / 2));
+    const simulation = d3.forceSimulation()
+    .force("link", d3.forceLink(filteredLinks)
+    .id(d => d.id)
+    .distance(120) // Increased distance for better separation
+    .strength(0.4)) // Slightly adjusted strength for balance
+    .force("charge", d3.forceManyBody()
+    .strength(-150)) // Increased negative charge for stronger repulsion
+    .force("center", d3.forceCenter(width / 2, height / 2));
+
 
     simulation.nodes(filteredNodes)
         .on("tick", ticked);
@@ -407,3 +410,19 @@ function resetGraph() {
     document.getElementById("thresholdValue").textContent = "0.75";
     updateVisibleGraph();
 }
+
+// Function to open the info window
+function openInfoWindow() {
+    document.getElementById("infoWindow").style.display = "block";
+}
+
+// Function to close the info window
+function closeInfoWindow() {
+    document.getElementById("infoWindow").style.display = "none";
+}
+
+// Event listener to close the info window
+document.getElementById("closeInfoWindow").addEventListener("click", closeInfoWindow);
+
+// Open the info window on page load (optional)
+window.onload = openInfoWindow;
