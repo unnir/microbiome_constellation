@@ -70,6 +70,14 @@ function initializeGraph(loadedGraph) {
         .attr("width", width)
         .attr("height", height);
 
+
+    // Initialize zoomBehavior here
+    zoomBehavior = d3.zoom()
+        .scaleExtent([0.1, 4])  
+        .on("zoom", zoomed);
+
+    svg.call(zoomBehavior);
+
     g = svg.append("g");
 
 
@@ -111,8 +119,6 @@ function initializeGraph(loadedGraph) {
         .attr("dx", 12)
         .attr("dy", ".35em")
         .text(function(d) { return d.id });
-
-    initializeZoom();
 
 
     // Add forces to the nodes and links
@@ -367,21 +373,6 @@ function applyThreshold(threshold) {
 }
 
 
-// Initialize Zoom Behavior
-function initializeZoom() {
-    zoomBehavior = d3.zoom()
-        .scaleExtent([0.1, 4])  // Set minimum and maximum scale
-        .on("zoom", zoomed);
-
-    svg.call(zoomBehavior);
-}
-
-// Zoom event handler
-function zoomed(event) {
-    g.attr("transform", event.transform);
-}
-
-
 document.getElementById("filterButton").addEventListener("click", function() {
     const featureName = document.getElementById("featureInput").value;
     currentFeature = featureName;
@@ -389,13 +380,15 @@ document.getElementById("filterButton").addEventListener("click", function() {
 });
 
 
-document.getElementById("zoom_out").addEventListener("click", function() {
-    zoomByFactor(0.8);  // Zoom out by 20%
-});
-
-function zoomByFactor(factor) {
-    svg.transition().duration(500).call(zoomBehavior.scaleBy, factor);
+// Separate functions for zoom in and zoom out
+function zoomIn() {
+    svg.transition().duration(500).call(zoomBehavior.scaleBy, 1.2);
 }
+
+function zoomOut() {
+    svg.transition().duration(500).call(zoomBehavior.scaleBy, 0.8);
+}
+
 
 // Event listener for the reset button
 document.getElementById("resetGraph").addEventListener("click", function() {
@@ -426,3 +419,9 @@ document.getElementById("closeInfoWindow").addEventListener("click", closeInfoWi
 
 // Open the info window on page load (optional)
 window.onload = openInfoWindow;
+
+
+// Define the zoomed function
+function zoomed(event) {
+    g.attr("transform", event.transform);
+}
