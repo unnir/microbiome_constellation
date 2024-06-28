@@ -1,0 +1,6747 @@
+{
+  "nodes": [
+    {
+      "id": "Veillonella sp CAG 933",
+      "group": 1
+    },
+    {
+      "id": "Veillonella dispar",
+      "group": 1
+    },
+    {
+      "id": "Anaerococcus lactolyticus",
+      "group": 1
+    },
+    {
+      "id": "Sanguibacteroides justesenii",
+      "group": 1
+    },
+    {
+      "id": "Actinobaculum sp oral taxon 183",
+      "group": 1
+    },
+    {
+      "id": "Coprococcus catus",
+      "group": 1
+    },
+    {
+      "id": "Lachnoclostridium sp An118",
+      "group": 1
+    },
+    {
+      "id": "Mitsuokella jalaludinii",
+      "group": 1
+    },
+    {
+      "id": "Holdemania filiformis",
+      "group": 1
+    },
+    {
+      "id": "Catabacter hongkongensis",
+      "group": 1
+    },
+    {
+      "id": "Clostridium perfringens",
+      "group": 1
+    },
+    {
+      "id": "Franconibacter helveticus",
+      "group": 1
+    },
+    {
+      "id": "Coprococcus eutactus",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus sp M334",
+      "group": 1
+    },
+    {
+      "id": "Pseudoflavonifractor sp An184",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides massiliensis",
+      "group": 1
+    },
+    {
+      "id": "Escherichia fergusonii",
+      "group": 1
+    },
+    {
+      "id": "Campylobacter ureolyticus",
+      "group": 1
+    },
+    {
+      "id": "Prevotella sp CAG 755",
+      "group": 1
+    },
+    {
+      "id": "Bacillus butanolivorans",
+      "group": 1
+    },
+    {
+      "id": "Fusobacterium naviforme",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides sp CAG 530",
+      "group": 1
+    },
+    {
+      "id": "Clavibacter michiganensis",
+      "group": 1
+    },
+    {
+      "id": "Prevotella bergensis",
+      "group": 1
+    },
+    {
+      "id": "Clostridium sp 7 2 43FAA",
+      "group": 1
+    },
+    {
+      "id": "Gemmiger formicilis",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus milleri",
+      "group": 1
+    },
+    {
+      "id": "Cetobacterium somerae",
+      "group": 1
+    },
+    {
+      "id": "Hydrogenibacillus schlegelii",
+      "group": 1
+    },
+    {
+      "id": "Haemophilus pittmaniae",
+      "group": 1
+    },
+    {
+      "id": "Lactobacillus gastricus",
+      "group": 1
+    },
+    {
+      "id": "Clostridium innocuum",
+      "group": 1
+    },
+    {
+      "id": "Bifidobacterium ruminantium",
+      "group": 1
+    },
+    {
+      "id": "Olsenella scatoligenes",
+      "group": 1
+    },
+    {
+      "id": "Lactobacillus algidus",
+      "group": 1
+    },
+    {
+      "id": "Abiotrophia sp HMSC24B09",
+      "group": 1
+    },
+    {
+      "id": "Clostridium citroniae",
+      "group": 1
+    },
+    {
+      "id": "Bifidobacterium animalis",
+      "group": 1
+    },
+    {
+      "id": "Abiotrophia defectiva",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus sp HMSC034E03",
+      "group": 1
+    },
+    {
+      "id": "Actinomyces sp oral taxon 448",
+      "group": 1
+    },
+    {
+      "id": "Lactobacillus delbrueckii",
+      "group": 1
+    },
+    {
+      "id": "Bifidobacterium kashiwanohense",
+      "group": 1
+    },
+    {
+      "id": "Terrisporobacter othiniensis",
+      "group": 1
+    },
+    {
+      "id": "Turicimonas muris",
+      "group": 1
+    },
+    {
+      "id": "Massiliomicrobiota timonensis",
+      "group": 1
+    },
+    {
+      "id": "Peptoniphilus sp BV3C26",
+      "group": 1
+    },
+    {
+      "id": "Olsenella uli",
+      "group": 1
+    },
+    {
+      "id": "Atopobium parvulum",
+      "group": 1
+    },
+    {
+      "id": "Klebsiella oxytoca",
+      "group": 1
+    },
+    {
+      "id": "Clostridium paraputrificum",
+      "group": 1
+    },
+    {
+      "id": "Eubacterium siraeum",
+      "group": 1
+    },
+    {
+      "id": "Bifidobacterium adolescentis",
+      "group": 1
+    },
+    {
+      "id": "Lactobacillus johnsonii",
+      "group": 1
+    },
+    {
+      "id": "Roseburia hominis",
+      "group": 1
+    },
+    {
+      "id": "Prevotella sp oral taxon 473",
+      "group": 1
+    },
+    {
+      "id": "Dialister pneumosintes",
+      "group": 1
+    },
+    {
+      "id": "Barnesiella intestinihominis",
+      "group": 1
+    },
+    {
+      "id": "Lactobacillus rogosae",
+      "group": 1
+    },
+    {
+      "id": "Actinomyces oris",
+      "group": 1
+    },
+    {
+      "id": "Ruminococcus sp CAG 330",
+      "group": 1
+    },
+    {
+      "id": "Citrobacter pasteurii",
+      "group": 1
+    },
+    {
+      "id": "Clostridium sp CAG 242",
+      "group": 1
+    },
+    {
+      "id": "Barnesiella sp An22",
+      "group": 1
+    },
+    {
+      "id": "Lachnoclostridium sp An138",
+      "group": 1
+    },
+    {
+      "id": "Escherichia coli",
+      "group": 1
+    },
+    {
+      "id": "Actinomyces cardiffensis",
+      "group": 1
+    },
+    {
+      "id": "Treponema berlinense",
+      "group": 1
+    },
+    {
+      "id": "Intestinimonas butyriciproducens",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus thermophilus",
+      "group": 1
+    },
+    {
+      "id": "Gemmiger sp An87",
+      "group": 1
+    },
+    {
+      "id": "Kluyvera georgiana",
+      "group": 1
+    },
+    {
+      "id": "Entamoeba histolytica",
+      "group": 1
+    },
+    {
+      "id": "Clostridium sp MSTE9",
+      "group": 1
+    },
+    {
+      "id": "Megamonas funiformis",
+      "group": 1
+    },
+    {
+      "id": "Bacillus cereus group",
+      "group": 1
+    },
+    {
+      "id": "Klebsiella aerogenes",
+      "group": 1
+    },
+    {
+      "id": "Odoribacter laneus",
+      "group": 1
+    },
+    {
+      "id": "Prevotella sp CAG 5226",
+      "group": 1
+    },
+    {
+      "id": "Lactobacillus plantarum",
+      "group": 1
+    },
+    {
+      "id": "Alistipes sp CHKCI003",
+      "group": 1
+    },
+    {
+      "id": "Peptoniphilus duerdenii",
+      "group": 1
+    },
+    {
+      "id": "Monoglobus pectinilyticus",
+      "group": 1
+    },
+    {
+      "id": "Ruminococcaceae bacterium D5",
+      "group": 1
+    },
+    {
+      "id": "Eggerthia catenaformis",
+      "group": 1
+    },
+    {
+      "id": "Treponema succinifaciens",
+      "group": 1
+    },
+    {
+      "id": "Actinomyces turicensis",
+      "group": 1
+    },
+    {
+      "id": "Ruminococcus lactaris",
+      "group": 1
+    },
+    {
+      "id": "Actinomyces sp oral taxon 180",
+      "group": 1
+    },
+    {
+      "id": "Lactococcus piscium",
+      "group": 1
+    },
+    {
+      "id": "Clostridium sp CAG 510",
+      "group": 1
+    },
+    {
+      "id": "Stenotrophomonas maltophilia",
+      "group": 1
+    },
+    {
+      "id": "Marvinbryantia formatexigens",
+      "group": 1
+    },
+    {
+      "id": "Citrobacter europaeus",
+      "group": 1
+    },
+    {
+      "id": "Actinomyces sp HMSC035G02",
+      "group": 1
+    },
+    {
+      "id": "Brachyspira sp CAG 700",
+      "group": 1
+    },
+    {
+      "id": "Veillonella denticariosi",
+      "group": 1
+    },
+    {
+      "id": "Firmicutes bacterium CAG 94",
+      "group": 1
+    },
+    {
+      "id": "Actinomyces viscosus",
+      "group": 1
+    },
+    {
+      "id": "Firmicutes bacterium CAG 424",
+      "group": 1
+    },
+    {
+      "id": "Oscillibacter sp 57 20",
+      "group": 1
+    },
+    {
+      "id": "Firmicutes bacterium CAG 238",
+      "group": 1
+    },
+    {
+      "id": "Blautia sp An249",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides pectinophilus",
+      "group": 1
+    },
+    {
+      "id": "Lawsonibacter asaccharolyticus",
+      "group": 1
+    },
+    {
+      "id": "Rhodococcus qingshengii",
+      "group": 1
+    },
+    {
+      "id": "Clostridium bolteae CAG 59",
+      "group": 1
+    },
+    {
+      "id": "Candidatus Gastranaerophilales bacterium HUM 9",
+      "group": 1
+    },
+    {
+      "id": "Roseburia inulinivorans",
+      "group": 1
+    },
+    {
+      "id": "Actinomyces naeslundii",
+      "group": 1
+    },
+    {
+      "id": "Oxalobacter formigenes",
+      "group": 1
+    },
+    {
+      "id": "Lachnoclostridium sp An181",
+      "group": 1
+    },
+    {
+      "id": "Eubacterium eligens",
+      "group": 1
+    },
+    {
+      "id": "Lactobacillus fermentum",
+      "group": 1
+    },
+    {
+      "id": "Blautia wexlerae",
+      "group": 1
+    },
+    {
+      "id": "Atopobium minutum",
+      "group": 1
+    },
+    {
+      "id": "Eubacterium sp OM08 24",
+      "group": 1
+    },
+    {
+      "id": "Lachnoanaerobaculum saburreum",
+      "group": 1
+    },
+    {
+      "id": "Pseudopropionibacterium propionicum",
+      "group": 1
+    },
+    {
+      "id": "Paraclostridium bifermentans",
+      "group": 1
+    },
+    {
+      "id": "Ruminococcus torques",
+      "group": 1
+    },
+    {
+      "id": "Eubacterium sulci",
+      "group": 1
+    },
+    {
+      "id": "Eubacterium sp An11",
+      "group": 1
+    },
+    {
+      "id": "Absiella dolichum",
+      "group": 1
+    },
+    {
+      "id": "Succinatimonas hippei",
+      "group": 1
+    },
+    {
+      "id": "Stenotrophomonas pavanii",
+      "group": 1
+    },
+    {
+      "id": "Erysipelatoclostridium ramosum",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides plebeius",
+      "group": 1
+    },
+    {
+      "id": "Dorea sp D27",
+      "group": 1
+    },
+    {
+      "id": "Slackia isoflavoniconvertens",
+      "group": 1
+    },
+    {
+      "id": "Eubacterium ventriosum",
+      "group": 1
+    },
+    {
+      "id": "Rothia mucilaginosa",
+      "group": 1
+    },
+    {
+      "id": "Porphyromonas uenonis",
+      "group": 1
+    },
+    {
+      "id": "Peptococcus niger",
+      "group": 1
+    },
+    {
+      "id": "Aeromonas hydrophila",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides sp CAG 144",
+      "group": 1
+    },
+    {
+      "id": "Prevotella disiens",
+      "group": 1
+    },
+    {
+      "id": "Peptoniphilus sp HMSC062D09",
+      "group": 1
+    },
+    {
+      "id": "Phascolarctobacterium succinatutens",
+      "group": 1
+    },
+    {
+      "id": "Bifidobacterium breve",
+      "group": 1
+    },
+    {
+      "id": "Lactobacillus kalixensis",
+      "group": 1
+    },
+    {
+      "id": "Fretibacterium fastidiosum",
+      "group": 1
+    },
+    {
+      "id": "Proteobacteria bacterium CAG 139",
+      "group": 1
+    },
+    {
+      "id": "Proteus hauseri",
+      "group": 1
+    },
+    {
+      "id": "Aeromonas veronii",
+      "group": 1
+    },
+    {
+      "id": "Clostridium clostridioforme",
+      "group": 1
+    },
+    {
+      "id": "Clostridium sp CAG 167",
+      "group": 1
+    },
+    {
+      "id": "Prevotella stercorea",
+      "group": 1
+    },
+    {
+      "id": "Megasphaera hexanoica",
+      "group": 1
+    },
+    {
+      "id": "Neisseria sicca",
+      "group": 1
+    },
+    {
+      "id": "Prevotella sp CAG 891",
+      "group": 1
+    },
+    {
+      "id": "Mogibacterium pumilum",
+      "group": 1
+    },
+    {
+      "id": "Helicobacter cinaedi",
+      "group": 1
+    },
+    {
+      "id": "Lactobacillus ruminis",
+      "group": 1
+    },
+    {
+      "id": "Mogibacterium diversum",
+      "group": 1
+    },
+    {
+      "id": "Methanosphaera stadtmanae",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus equinus",
+      "group": 1
+    },
+    {
+      "id": "Prevotella sp oral taxon 306",
+      "group": 1
+    },
+    {
+      "id": "Lachnoclostridium sp An14",
+      "group": 1
+    },
+    {
+      "id": "Actinomyces sp oral taxon 414",
+      "group": 1
+    },
+    {
+      "id": "Negativicoccus succinicivorans",
+      "group": 1
+    },
+    {
+      "id": "Bifidobacterium bifidum",
+      "group": 1
+    },
+    {
+      "id": "Corynebacterium durum",
+      "group": 1
+    },
+    {
+      "id": "Enhydrobacter aerosaccus",
+      "group": 1
+    },
+    {
+      "id": "Clostridium sp CAG 411",
+      "group": 1
+    },
+    {
+      "id": "Lactobacillus oris",
+      "group": 1
+    },
+    {
+      "id": "Escherichia marmotae",
+      "group": 1
+    },
+    {
+      "id": "Scardovia wiggsiae",
+      "group": 1
+    },
+    {
+      "id": "Haemophilus parahaemolyticus",
+      "group": 1
+    },
+    {
+      "id": "Rikenella microfusus",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus sp HMSC067H01",
+      "group": 1
+    },
+    {
+      "id": "Veillonella sp T11011 6",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus infantarius",
+      "group": 1
+    },
+    {
+      "id": "Leuconostoc pseudomesenteroides",
+      "group": 1
+    },
+    {
+      "id": "Morganella morganii",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus sp F0442",
+      "group": 1
+    },
+    {
+      "id": "Subdoligranulum variabile",
+      "group": 1
+    },
+    {
+      "id": "Lachnospiraceae bacterium oral taxon 096",
+      "group": 1
+    },
+    {
+      "id": "Cutibacterium acnes",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides sp 43 108",
+      "group": 1
+    },
+    {
+      "id": "Pseudomonas lundensis",
+      "group": 1
+    },
+    {
+      "id": "Cupriavidus metallidurans",
+      "group": 1
+    },
+    {
+      "id": "Firmicutes bacterium CAG 83",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus sp A12",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides sp D2",
+      "group": 1
+    },
+    {
+      "id": "Lactobacillus paragasseri",
+      "group": 1
+    },
+    {
+      "id": "Butyrivibrio sp CAG 318",
+      "group": 1
+    },
+    {
+      "id": "Veillonella tobetsuensis",
+      "group": 1
+    },
+    {
+      "id": "Clostridium aldenense",
+      "group": 1
+    },
+    {
+      "id": "Eubacterium saphenum",
+      "group": 1
+    },
+    {
+      "id": "Mobiluncus curtisii",
+      "group": 1
+    },
+    {
+      "id": "Eubacterium rectale",
+      "group": 1
+    },
+    {
+      "id": "Finegoldia magna",
+      "group": 1
+    },
+    {
+      "id": "Leclercia adecarboxylata",
+      "group": 1
+    },
+    {
+      "id": "Campylobacter showae",
+      "group": 1
+    },
+    {
+      "id": "Candidatus Stoquefichus sp KLE1796",
+      "group": 1
+    },
+    {
+      "id": "Fusobacterium gonidiaformans",
+      "group": 1
+    },
+    {
+      "id": "Gardnerella vaginalis",
+      "group": 1
+    },
+    {
+      "id": "Proteus mirabilis",
+      "group": 1
+    },
+    {
+      "id": "Bifidobacterium pullorum",
+      "group": 1
+    },
+    {
+      "id": "Fusobacterium nucleatum",
+      "group": 1
+    },
+    {
+      "id": "Parvimonas sp oral taxon 110",
+      "group": 1
+    },
+    {
+      "id": "Barnesiella viscericola",
+      "group": 1
+    },
+    {
+      "id": "Anaerofustis stercorihominis",
+      "group": 1
+    },
+    {
+      "id": "Dysgonomonas gadei",
+      "group": 1
+    },
+    {
+      "id": "Campylobacter jejuni",
+      "group": 1
+    },
+    {
+      "id": "Veillonella atypica",
+      "group": 1
+    },
+    {
+      "id": "Megasphaera sp DISK 18",
+      "group": 1
+    },
+    {
+      "id": "Prevotella buccalis",
+      "group": 1
+    },
+    {
+      "id": "Bacillus marisflavi",
+      "group": 1
+    },
+    {
+      "id": "Actinomyces massiliensis",
+      "group": 1
+    },
+    {
+      "id": "Prevotella sp CAG 1185",
+      "group": 1
+    },
+    {
+      "id": "Peptoniphilus lacrimalis",
+      "group": 1
+    },
+    {
+      "id": "Collinsella aerofaciens",
+      "group": 1
+    },
+    {
+      "id": "Prevotella denticola",
+      "group": 1
+    },
+    {
+      "id": "Campylobacter gracilis",
+      "group": 1
+    },
+    {
+      "id": "Lactobacillus reuteri",
+      "group": 1
+    },
+    {
+      "id": "Clostridium hiranonis",
+      "group": 1
+    },
+    {
+      "id": "Dialister succinatiphilus",
+      "group": 1
+    },
+    {
+      "id": "Varibaculum cambriense",
+      "group": 1
+    },
+    {
+      "id": "Alistipes putredinis",
+      "group": 1
+    },
+    {
+      "id": "Pediococcus sp",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus salivarius",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus sobrinus",
+      "group": 1
+    },
+    {
+      "id": "Enterococcus italicus",
+      "group": 1
+    },
+    {
+      "id": "Oscillibacter sp CAG 241",
+      "group": 1
+    },
+    {
+      "id": "Jonquetella anthropi",
+      "group": 1
+    },
+    {
+      "id": "Mogibacterium timidum",
+      "group": 1
+    },
+    {
+      "id": "Porphyromonas sp HMSC065F10",
+      "group": 1
+    },
+    {
+      "id": "Brachyspira pilosicoli",
+      "group": 1
+    },
+    {
+      "id": "Clostridium spiroforme",
+      "group": 1
+    },
+    {
+      "id": "Lachnospiraceae bacterium 2 1 46FAA",
+      "group": 1
+    },
+    {
+      "id": "Lactococcus chungangensis",
+      "group": 1
+    },
+    {
+      "id": "Staphylococcus xylosus",
+      "group": 1
+    },
+    {
+      "id": "Ruminococcus sp CAG 563",
+      "group": 1
+    },
+    {
+      "id": "Lactobacillus vaginalis",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides cellulosilyticus",
+      "group": 1
+    },
+    {
+      "id": "Citrobacter amalonaticus",
+      "group": 1
+    },
+    {
+      "id": "Gemmiger sp An120",
+      "group": 1
+    },
+    {
+      "id": "Dysgonomonas mossii",
+      "group": 1
+    },
+    {
+      "id": "Butyrivibrio crossotus",
+      "group": 1
+    },
+    {
+      "id": "Prevotella bivia",
+      "group": 1
+    },
+    {
+      "id": "Enterococcus faecalis",
+      "group": 1
+    },
+    {
+      "id": "Anaerococcus vaginalis",
+      "group": 1
+    },
+    {
+      "id": "Tissierellia bacterium KA00581",
+      "group": 1
+    },
+    {
+      "id": "Pyramidobacter piscolens",
+      "group": 1
+    },
+    {
+      "id": "Cardiobacterium valvarum",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus mitis",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides nordii",
+      "group": 1
+    },
+    {
+      "id": "Intestinibacter bartlettii",
+      "group": 1
+    },
+    {
+      "id": "Citrobacter freundii",
+      "group": 1
+    },
+    {
+      "id": "Parabacteroides gordonii",
+      "group": 1
+    },
+    {
+      "id": "Pseudomonas fragi",
+      "group": 1
+    },
+    {
+      "id": "Prevotella histicola",
+      "group": 1
+    },
+    {
+      "id": "Tropheryma whipplei",
+      "group": 1
+    },
+    {
+      "id": "Aneurinibacillus migulanus",
+      "group": 1
+    },
+    {
+      "id": "Fusicatenibacter saccharivorans",
+      "group": 1
+    },
+    {
+      "id": "Mitsuokella multacida",
+      "group": 1
+    },
+    {
+      "id": "Staphylococcus equorum",
+      "group": 1
+    },
+    {
+      "id": "Haemophilus haemolyticus",
+      "group": 1
+    },
+    {
+      "id": "Mageeibacillus indolicus",
+      "group": 1
+    },
+    {
+      "id": "Haemophilus sputorum",
+      "group": 1
+    },
+    {
+      "id": "Coprobacter fastidiosus",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus anginosus group",
+      "group": 1
+    },
+    {
+      "id": "Clostridium sp CAG 678",
+      "group": 1
+    },
+    {
+      "id": "Arcobacter butzleri",
+      "group": 1
+    },
+    {
+      "id": "Klebsiella variicola CAG 634",
+      "group": 1
+    },
+    {
+      "id": "Leuconostoc mesenteroides",
+      "group": 1
+    },
+    {
+      "id": "Enterococcus thailandicus",
+      "group": 1
+    },
+    {
+      "id": "Kluyvera cryocrescens",
+      "group": 1
+    },
+    {
+      "id": "Gemella haemolysans",
+      "group": 1
+    },
+    {
+      "id": "Corynebacterium argentoratense",
+      "group": 1
+    },
+    {
+      "id": "Ruminococcus sp CAG 579",
+      "group": 1
+    },
+    {
+      "id": "Bifidobacterium pseudolongum",
+      "group": 1
+    },
+    {
+      "id": "Akkermansia muciniphila",
+      "group": 1
+    },
+    {
+      "id": "Parabacteroides goldsteinii",
+      "group": 1
+    },
+    {
+      "id": "Anaerostipes hadrus",
+      "group": 1
+    },
+    {
+      "id": "Lactobacillus sakei",
+      "group": 1
+    },
+    {
+      "id": "Actinomyces sp oral taxon 897",
+      "group": 1
+    },
+    {
+      "id": "Clostridium asparagiforme",
+      "group": 1
+    },
+    {
+      "id": "Enterococcus avium",
+      "group": 1
+    },
+    {
+      "id": "Prevotella sp CAG 1320",
+      "group": 1
+    },
+    {
+      "id": "Coprobacter secundus",
+      "group": 1
+    },
+    {
+      "id": "Megasphaera sp MJR8396C",
+      "group": 1
+    },
+    {
+      "id": "Ruminococcus callidus",
+      "group": 1
+    },
+    {
+      "id": "Firmicutes bacterium CAG 145",
+      "group": 1
+    },
+    {
+      "id": "Clostridium symbiosum",
+      "group": 1
+    },
+    {
+      "id": "Entamoeba dispar",
+      "group": 1
+    },
+    {
+      "id": "Enterococcus gallinarum",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus infantis",
+      "group": 1
+    },
+    {
+      "id": "Helicobacter pullorum",
+      "group": 1
+    },
+    {
+      "id": "Cupriavidus sp",
+      "group": 1
+    },
+    {
+      "id": "Desulfovibrio sp An276",
+      "group": 1
+    },
+    {
+      "id": "Alistipes shahii",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides sp OM08 11",
+      "group": 1
+    },
+    {
+      "id": "Lactobacillus amylovorus",
+      "group": 1
+    },
+    {
+      "id": "Peptostreptococcus sp MV1",
+      "group": 1
+    },
+    {
+      "id": "Clostridium baratii",
+      "group": 1
+    },
+    {
+      "id": "Turicibacter sanguinis",
+      "group": 1
+    },
+    {
+      "id": "Corynebacterium variabile",
+      "group": 1
+    },
+    {
+      "id": "Escherichia albertii",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides fragilis",
+      "group": 1
+    },
+    {
+      "id": "Ruminococcus bromii",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides xylanisolvens",
+      "group": 1
+    },
+    {
+      "id": "Megasphaera sp BV3C16 1",
+      "group": 1
+    },
+    {
+      "id": "Eisenbergiella tayi",
+      "group": 1
+    },
+    {
+      "id": "Lautropia mirabilis",
+      "group": 1
+    },
+    {
+      "id": "Lachnospira pectinoschiza",
+      "group": 1
+    },
+    {
+      "id": "Pseudoflavonifractor capillosus",
+      "group": 1
+    },
+    {
+      "id": "Anaerococcus hydrogenalis",
+      "group": 1
+    },
+    {
+      "id": "Parabacteroides merdae",
+      "group": 1
+    },
+    {
+      "id": "Actinomyces europaeus",
+      "group": 1
+    },
+    {
+      "id": "Eisenbergiella massiliensis",
+      "group": 1
+    },
+    {
+      "id": "Prevotella sp CAG 1124",
+      "group": 1
+    },
+    {
+      "id": "Atopobium rimae",
+      "group": 1
+    },
+    {
+      "id": "Leuconostoc gelidum",
+      "group": 1
+    },
+    {
+      "id": "Prevotella sp CAG 1092",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides salyersiae",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides thetaiotaomicron",
+      "group": 1
+    },
+    {
+      "id": "Flavonifractor sp An306",
+      "group": 1
+    },
+    {
+      "id": "Acinetobacter johnsonii",
+      "group": 1
+    },
+    {
+      "id": "Enterobacter cloacae complex",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides uniformis",
+      "group": 1
+    },
+    {
+      "id": "Slackia exigua",
+      "group": 1
+    },
+    {
+      "id": "Gemmiger sp An50",
+      "group": 1
+    },
+    {
+      "id": "Enterorhabdus caecimuris",
+      "group": 1
+    },
+    {
+      "id": "Anaerobiospirillum thomasii",
+      "group": 1
+    },
+    {
+      "id": "Clostridium scindens",
+      "group": 1
+    },
+    {
+      "id": "Peptoniphilus harei",
+      "group": 1
+    },
+    {
+      "id": "Prevotella sp CAG 1058",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides caccae",
+      "group": 1
+    },
+    {
+      "id": "Stenotrophomonas rhizophila",
+      "group": 1
+    },
+    {
+      "id": "Veillonella rogosae",
+      "group": 1
+    },
+    {
+      "id": "Lachnoclostridium sp An131",
+      "group": 1
+    },
+    {
+      "id": "Prevotella intermedia",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus gallolyticus",
+      "group": 1
+    },
+    {
+      "id": "Prevotella oralis",
+      "group": 1
+    },
+    {
+      "id": "Campylobacter concisus",
+      "group": 1
+    },
+    {
+      "id": "Alloscardovia omnicolens",
+      "group": 1
+    },
+    {
+      "id": "Paraprevotella xylaniphila",
+      "group": 1
+    },
+    {
+      "id": "Lactobacillus acidophilus",
+      "group": 1
+    },
+    {
+      "id": "Granulicatella adiacens",
+      "group": 1
+    },
+    {
+      "id": "Lactobacillus parabuchneri",
+      "group": 1
+    },
+    {
+      "id": "Actinomyces johnsonii",
+      "group": 1
+    },
+    {
+      "id": "Enterobacter bugandensis",
+      "group": 1
+    },
+    {
+      "id": "Lactococcus garvieae",
+      "group": 1
+    },
+    {
+      "id": "Prevotella corporis",
+      "group": 1
+    },
+    {
+      "id": "Acidaminococcus intestini",
+      "group": 1
+    },
+    {
+      "id": "Veillonella infantium",
+      "group": 1
+    },
+    {
+      "id": "Clostridium hylemonae",
+      "group": 1
+    },
+    {
+      "id": "Clostridium butyricum",
+      "group": 1
+    },
+    {
+      "id": "Ruminococcaceae bacterium D16",
+      "group": 1
+    },
+    {
+      "id": "Ruminococcus gnavus",
+      "group": 1
+    },
+    {
+      "id": "Propionibacterium acidifaciens",
+      "group": 1
+    },
+    {
+      "id": "Anaerococcus octavius",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides salanitronis",
+      "group": 1
+    },
+    {
+      "id": "Flavonifractor sp An10",
+      "group": 1
+    },
+    {
+      "id": "Prevotella sp CAG 1031",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus lutetiensis",
+      "group": 1
+    },
+    {
+      "id": "Muribaculum intestinale",
+      "group": 1
+    },
+    {
+      "id": "Achromobacter xylosoxidans",
+      "group": 1
+    },
+    {
+      "id": "Faecalicoccus pleomorphus",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus sp NLAE zl C503",
+      "group": 1
+    },
+    {
+      "id": "Methanosphaera cuniculi",
+      "group": 1
+    },
+    {
+      "id": "Murimonas intestini",
+      "group": 1
+    },
+    {
+      "id": "Parabacteroides sp 426 9",
+      "group": 1
+    },
+    {
+      "id": "Citrobacter koseri",
+      "group": 1
+    },
+    {
+      "id": "Rothia aeria",
+      "group": 1
+    },
+    {
+      "id": "Veillonella seminalis",
+      "group": 1
+    },
+    {
+      "id": "Lactococcus petauri",
+      "group": 1
+    },
+    {
+      "id": "Anaerococcus prevotii",
+      "group": 1
+    },
+    {
+      "id": "Actinomyces sp ICM47",
+      "group": 1
+    },
+    {
+      "id": "Propionibacterium freudenreichii",
+      "group": 1
+    },
+    {
+      "id": "Cronobacter sakazakii",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus agalactiae",
+      "group": 1
+    },
+    {
+      "id": "Lactobacillus rhamnosus",
+      "group": 1
+    },
+    {
+      "id": "Gemmiger sp An194",
+      "group": 1
+    },
+    {
+      "id": "Parvimonas sp KA00067",
+      "group": 1
+    },
+    {
+      "id": "Lactobacillus crispatus",
+      "group": 1
+    },
+    {
+      "id": "Veillonella parvula",
+      "group": 1
+    },
+    {
+      "id": "Eubacterium ramulus",
+      "group": 1
+    },
+    {
+      "id": "Prevotella sp CAG 279",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides sp CAG 598",
+      "group": 1
+    },
+    {
+      "id": "Paeniclostridium sordellii",
+      "group": 1
+    },
+    {
+      "id": "Methanobrevibacter smithii",
+      "group": 1
+    },
+    {
+      "id": "Aeromonas caviae",
+      "group": 1
+    },
+    {
+      "id": "Butyricimonas virosa",
+      "group": 1
+    },
+    {
+      "id": "Christensenella minuta",
+      "group": 1
+    },
+    {
+      "id": "Atlantibacter hermannii",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides finegoldii",
+      "group": 1
+    },
+    {
+      "id": "Clostridioides difficile",
+      "group": 1
+    },
+    {
+      "id": "Clostridium sp CAG 253",
+      "group": 1
+    },
+    {
+      "id": "Firmicutes bacterium CAG 110",
+      "group": 1
+    },
+    {
+      "id": "Prevotella sp S7 1 8",
+      "group": 1
+    },
+    {
+      "id": "Roseburia sp CAG 182",
+      "group": 1
+    },
+    {
+      "id": "Roseburia faecis",
+      "group": 1
+    },
+    {
+      "id": "Stomatobaculum longum",
+      "group": 1
+    },
+    {
+      "id": "Eubacteriaceae bacterium CHKCI005",
+      "group": 1
+    },
+    {
+      "id": "Klebsiella quasipneumoniae",
+      "group": 1
+    },
+    {
+      "id": "Parascardovia denticolens",
+      "group": 1
+    },
+    {
+      "id": "Raoultella ornithinolytica",
+      "group": 1
+    },
+    {
+      "id": "Lactobacillus iners",
+      "group": 1
+    },
+    {
+      "id": "Faecalibacterium prausnitzii",
+      "group": 1
+    },
+    {
+      "id": "Lactobacillus agilis",
+      "group": 1
+    },
+    {
+      "id": "Dielma fastidiosa",
+      "group": 1
+    },
+    {
+      "id": "Faecalitalea cylindroides",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides sp CAG 661",
+      "group": 1
+    },
+    {
+      "id": "Lactobacillus brevis",
+      "group": 1
+    },
+    {
+      "id": "Saccharomyces cerevisiae",
+      "group": 1
+    },
+    {
+      "id": "Enterococcus durans",
+      "group": 1
+    },
+    {
+      "id": "Eubacterium infirmum",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus pneumoniae",
+      "group": 1
+    },
+    {
+      "id": "Dysgonomonas sp 37 18",
+      "group": 1
+    },
+    {
+      "id": "Enterococcus dispar",
+      "group": 1
+    },
+    {
+      "id": "Butyricimonas synergistica",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides vulgatus",
+      "group": 1
+    },
+    {
+      "id": "Acidaminococcus sp CAG 542",
+      "group": 1
+    },
+    {
+      "id": "Blautia sp CAG 257",
+      "group": 1
+    },
+    {
+      "id": "Bacteroidales bacterium KA00251",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus pseudopneumoniae",
+      "group": 1
+    },
+    {
+      "id": "Parabacteroides johnsonii",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus vestibularis",
+      "group": 1
+    },
+    {
+      "id": "Gemella sanguinis",
+      "group": 1
+    },
+    {
+      "id": "Eubacterium brachy",
+      "group": 1
+    },
+    {
+      "id": "Bifidobacterium catenulatum",
+      "group": 1
+    },
+    {
+      "id": "Solobacterium moorei",
+      "group": 1
+    },
+    {
+      "id": "Plesiomonas shigelloides",
+      "group": 1
+    },
+    {
+      "id": "Lactobacillus salivarius",
+      "group": 1
+    },
+    {
+      "id": "Eikenella corrodens",
+      "group": 1
+    },
+    {
+      "id": "Clostridium sp D5",
+      "group": 1
+    },
+    {
+      "id": "Firmicutes bacterium CAG 555",
+      "group": 1
+    },
+    {
+      "id": "Collinsella intestinalis",
+      "group": 1
+    },
+    {
+      "id": "Prevotella copri",
+      "group": 1
+    },
+    {
+      "id": "Aeriscardovia aeriphila",
+      "group": 1
+    },
+    {
+      "id": "Clostridiales bacterium 1 7 47FAA",
+      "group": 1
+    },
+    {
+      "id": "Enterococcus hirae",
+      "group": 1
+    },
+    {
+      "id": "Porphyromonas asaccharolytica",
+      "group": 1
+    },
+    {
+      "id": "Candidatus Methanomassiliicoccus intestinalis",
+      "group": 1
+    },
+    {
+      "id": "Carnobacterium divergens",
+      "group": 1
+    },
+    {
+      "id": "Oscillibacter sp PC13",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus pasteurianus",
+      "group": 1
+    },
+    {
+      "id": "Actinomyces urogenitalis",
+      "group": 1
+    },
+    {
+      "id": "Agathobaculum butyriciproducens",
+      "group": 1
+    },
+    {
+      "id": "Fusobacterium varium",
+      "group": 1
+    },
+    {
+      "id": "Fusobacterium necrophorum",
+      "group": 1
+    },
+    {
+      "id": "Eubacterium dolichum CAG 375",
+      "group": 1
+    },
+    {
+      "id": "Harryflintia acetispora",
+      "group": 1
+    },
+    {
+      "id": "Ruminococcus obeum CAG 39",
+      "group": 1
+    },
+    {
+      "id": "Neisseria flavescens",
+      "group": 1
+    },
+    {
+      "id": "Fusobacterium periodonticum",
+      "group": 1
+    },
+    {
+      "id": "Firmicutes bacterium CAG 646",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus gordonii",
+      "group": 1
+    },
+    {
+      "id": "Helicobacter fennelliae",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides sp CAG 443",
+      "group": 1
+    },
+    {
+      "id": "Roseburia sp CAG 303",
+      "group": 1
+    },
+    {
+      "id": "Porphyromonas gingivalis",
+      "group": 1
+    },
+    {
+      "id": "Clostridium neonatale",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides intestinalis",
+      "group": 1
+    },
+    {
+      "id": "Blautia hydrogenotrophica",
+      "group": 1
+    },
+    {
+      "id": "Weissella confusa",
+      "group": 1
+    },
+    {
+      "id": "Fusobacterium sp oral taxon 370",
+      "group": 1
+    },
+    {
+      "id": "Clostridium lavalense",
+      "group": 1
+    },
+    {
+      "id": "Eubacterium sp CAG 274",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides sp CAG 633",
+      "group": 1
+    },
+    {
+      "id": "Campylobacter hominis",
+      "group": 1
+    },
+    {
+      "id": "Dialister micraerophilus",
+      "group": 1
+    },
+    {
+      "id": "Megasphaera micronuciformis",
+      "group": 1
+    },
+    {
+      "id": "Firmicutes bacterium CAG 170",
+      "group": 1
+    },
+    {
+      "id": "Bifidobacterium scardovii",
+      "group": 1
+    },
+    {
+      "id": "Blautia hansenii",
+      "group": 1
+    },
+    {
+      "id": "Proteus vulgaris",
+      "group": 1
+    },
+    {
+      "id": "Prevotella nigrescens",
+      "group": 1
+    },
+    {
+      "id": "Lactonifactor longoviformis",
+      "group": 1
+    },
+    {
+      "id": "Alistipes inops",
+      "group": 1
+    },
+    {
+      "id": "Prevotella sp AM42 24",
+      "group": 1
+    },
+    {
+      "id": "Firmicutes bacterium CAG 791",
+      "group": 1
+    },
+    {
+      "id": "Pediococcus acidilactici",
+      "group": 1
+    },
+    {
+      "id": "Lactobacillus pentosus",
+      "group": 1
+    },
+    {
+      "id": "Limnochorda pilosa",
+      "group": 1
+    },
+    {
+      "id": "Parvimonas micra",
+      "group": 1
+    },
+    {
+      "id": "Ruminococcus sp CAG 624",
+      "group": 1
+    },
+    {
+      "id": "Prevotella colorans",
+      "group": 1
+    },
+    {
+      "id": "Anaeromassilibacillus sp An250",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus australis",
+      "group": 1
+    },
+    {
+      "id": "Filifactor alocis",
+      "group": 1
+    },
+    {
+      "id": "Megamonas funiformis CAG 377",
+      "group": 1
+    },
+    {
+      "id": "Leuconostoc lactis",
+      "group": 1
+    },
+    {
+      "id": "Lawsonella clevelandensis",
+      "group": 1
+    },
+    {
+      "id": "Kosakonia cowanii",
+      "group": 1
+    },
+    {
+      "id": "Actinomyces sp HPA0247",
+      "group": 1
+    },
+    {
+      "id": "Haemophilus sp HMSC71H05",
+      "group": 1
+    },
+    {
+      "id": "Cellulosilyticum lentocellum",
+      "group": 1
+    },
+    {
+      "id": "Asaccharobacter celatus",
+      "group": 1
+    },
+    {
+      "id": "Klebsiella pneumoniae",
+      "group": 1
+    },
+    {
+      "id": "Alistipes indistinctus",
+      "group": 1
+    },
+    {
+      "id": "Eubacterium sp CAG 251",
+      "group": 1
+    },
+    {
+      "id": "Bifidobacterium angulatum",
+      "group": 1
+    },
+    {
+      "id": "Megasphaera stantonii",
+      "group": 1
+    },
+    {
+      "id": "Prevotella sp CAG 520",
+      "group": 1
+    },
+    {
+      "id": "Butyribacterium methylotrophicum",
+      "group": 1
+    },
+    {
+      "id": "Ruminococcus sp CAG 488",
+      "group": 1
+    },
+    {
+      "id": "Flavonifractor plautii",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides oleiciplenus",
+      "group": 1
+    },
+    {
+      "id": "Prevotella timonensis",
+      "group": 1
+    },
+    {
+      "id": "Catenibacterium mitsuokai",
+      "group": 1
+    },
+    {
+      "id": "Oribacterium parvum",
+      "group": 1
+    },
+    {
+      "id": "Candida albicans",
+      "group": 1
+    },
+    {
+      "id": "Clostridium sp chh4 2",
+      "group": 1
+    },
+    {
+      "id": "Tyzzerella nexilis",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus oralis",
+      "group": 1
+    },
+    {
+      "id": "Hungatella hathewayi",
+      "group": 1
+    },
+    {
+      "id": "Megamonas rupellensis",
+      "group": 1
+    },
+    {
+      "id": "Prevotella sp CAG 617",
+      "group": 1
+    },
+    {
+      "id": "Corynebacterium pyruviciproducens",
+      "group": 1
+    },
+    {
+      "id": "Staphylococcus epidermidis",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus downei",
+      "group": 1
+    },
+    {
+      "id": "Leuconostoc citreum",
+      "group": 1
+    },
+    {
+      "id": "Blautia producta",
+      "group": 1
+    },
+    {
+      "id": "Dorea formicigenerans",
+      "group": 1
+    },
+    {
+      "id": "Eubacterium coprostanoligenes",
+      "group": 1
+    },
+    {
+      "id": "Alistipes timonensis",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus macedonicus",
+      "group": 1
+    },
+    {
+      "id": "Dorea sp CAG 317",
+      "group": 1
+    },
+    {
+      "id": "Bifidobacterium pseudocatenulatum",
+      "group": 1
+    },
+    {
+      "id": "Prevotella salivae",
+      "group": 1
+    },
+    {
+      "id": "Clostridium sp CAG 413",
+      "group": 1
+    },
+    {
+      "id": "Anaerotruncus colihominis",
+      "group": 1
+    },
+    {
+      "id": "Parabacteroides chinchillae",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus sp HMSC071D03",
+      "group": 1
+    },
+    {
+      "id": "Lactobacillus versmoldensis",
+      "group": 1
+    },
+    {
+      "id": "Anaerofilum sp An201",
+      "group": 1
+    },
+    {
+      "id": "Corynebacterium casei",
+      "group": 1
+    },
+    {
+      "id": "Sharpea azabuensis",
+      "group": 1
+    },
+    {
+      "id": "Enterococcus faecium",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides ovatus",
+      "group": 1
+    },
+    {
+      "id": "Citrobacter werkmanii",
+      "group": 1
+    },
+    {
+      "id": "Roseburia sp CAG 471",
+      "group": 1
+    },
+    {
+      "id": "Dorea longicatena",
+      "group": 1
+    },
+    {
+      "id": "Ruthenibacterium lactatiformans",
+      "group": 1
+    },
+    {
+      "id": "Neisseria mucosa",
+      "group": 1
+    },
+    {
+      "id": "Enorma massiliensis",
+      "group": 1
+    },
+    {
+      "id": "Pyramidobacter sp C12 8",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides coagulans",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides faecis CAG 32",
+      "group": 1
+    },
+    {
+      "id": "Prevotella pallens",
+      "group": 1
+    },
+    {
+      "id": "Methanosphaera sp SHI1033",
+      "group": 1
+    },
+    {
+      "id": "Microvirgula aerodenitrificans",
+      "group": 1
+    },
+    {
+      "id": "Klebsiella variicola",
+      "group": 1
+    },
+    {
+      "id": "Bilophila wadsworthia",
+      "group": 1
+    },
+    {
+      "id": "Cloacibacillus porcorum",
+      "group": 1
+    },
+    {
+      "id": "Prevotella amnii",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus parauberis",
+      "group": 1
+    },
+    {
+      "id": "Haemophilus parainfluenzae",
+      "group": 1
+    },
+    {
+      "id": "Aggregatibacter sp oral taxon 458",
+      "group": 1
+    },
+    {
+      "id": "Facklamia hominis",
+      "group": 1
+    },
+    {
+      "id": "Leuconostoc garlicum",
+      "group": 1
+    },
+    {
+      "id": "Robinsoniella sp RHS",
+      "group": 1
+    },
+    {
+      "id": "Parabacteroides sp CAG 409",
+      "group": 1
+    },
+    {
+      "id": "Parabacteroides distasonis",
+      "group": 1
+    },
+    {
+      "id": "Oribacterium sinus",
+      "group": 1
+    },
+    {
+      "id": "Prevotella sp CAG 924",
+      "group": 1
+    },
+    {
+      "id": "Coprobacter sp",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides dorei",
+      "group": 1
+    },
+    {
+      "id": "Firmicutes bacterium CAG 534",
+      "group": 1
+    },
+    {
+      "id": "Eubacterium callanderi",
+      "group": 1
+    },
+    {
+      "id": "Campylobacter upsaliensis",
+      "group": 1
+    },
+    {
+      "id": "Clostridium sp CAG 590",
+      "group": 1
+    },
+    {
+      "id": "Erysipelothrix larvae",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides coprophilus",
+      "group": 1
+    },
+    {
+      "id": "Actinomyces odontolyticus",
+      "group": 1
+    },
+    {
+      "id": "Flavonifractor sp An100",
+      "group": 1
+    },
+    {
+      "id": "Rhodococcus erythropolis",
+      "group": 1
+    },
+    {
+      "id": "Faecalicatena orotica",
+      "group": 1
+    },
+    {
+      "id": "Blautia coccoides",
+      "group": 1
+    },
+    {
+      "id": "Veillonellaceae bacterium DNF00626",
+      "group": 1
+    },
+    {
+      "id": "Citrobacter youngae",
+      "group": 1
+    },
+    {
+      "id": "Enterococcus gilvus",
+      "group": 1
+    },
+    {
+      "id": "Actinomyces sp S6 Spd3",
+      "group": 1
+    },
+    {
+      "id": "Holdemanella biformis",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides faecis",
+      "group": 1
+    },
+    {
+      "id": "Eubacterium sp CAG 38",
+      "group": 1
+    },
+    {
+      "id": "Odoribacter splanchnicus",
+      "group": 1
+    },
+    {
+      "id": "Fusobacterium equinum",
+      "group": 1
+    },
+    {
+      "id": "Prevotella sp 885",
+      "group": 1
+    },
+    {
+      "id": "Firmicutes bacterium CAG 95",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides clarus",
+      "group": 1
+    },
+    {
+      "id": "Anaerostipes caccae",
+      "group": 1
+    },
+    {
+      "id": "Bifidobacterium gallinarum",
+      "group": 1
+    },
+    {
+      "id": "Anaerotruncus sp CAG 528",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus mutans",
+      "group": 1
+    },
+    {
+      "id": "Lactobacillus mucosae",
+      "group": 1
+    },
+    {
+      "id": "Bifidobacterium longum",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus viridans",
+      "group": 1
+    },
+    {
+      "id": "Eggerthella lenta",
+      "group": 1
+    },
+    {
+      "id": "Clostridium sp CAG 632",
+      "group": 1
+    },
+    {
+      "id": "Lactobacillus sanfranciscensis",
+      "group": 1
+    },
+    {
+      "id": "Anaeromassilibacillus sp An172",
+      "group": 1
+    },
+    {
+      "id": "Weissella viridescens",
+      "group": 1
+    },
+    {
+      "id": "Collinsella massiliensis",
+      "group": 1
+    },
+    {
+      "id": "Citrobacter farmeri",
+      "group": 1
+    },
+    {
+      "id": "Veillonella rodentium",
+      "group": 1
+    },
+    {
+      "id": "Parasutterella excrementihominis",
+      "group": 1
+    },
+    {
+      "id": "Prevotella sp CAG 873",
+      "group": 1
+    },
+    {
+      "id": "Citrobacter portucalensis",
+      "group": 1
+    },
+    {
+      "id": "Ruminococcus sp CAG 403",
+      "group": 1
+    },
+    {
+      "id": "Ralstonia pickettii",
+      "group": 1
+    },
+    {
+      "id": "Prevotella buccae",
+      "group": 1
+    },
+    {
+      "id": "Haemophilus paraphrohaemolyticus",
+      "group": 1
+    },
+    {
+      "id": "Coprobacillus cateniformis",
+      "group": 1
+    },
+    {
+      "id": "Megamonas hypermegale",
+      "group": 1
+    },
+    {
+      "id": "Raoultella planticola",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus sanguinis",
+      "group": 1
+    },
+    {
+      "id": "Coprococcus comes",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus cristatus",
+      "group": 1
+    },
+    {
+      "id": "Enterococcus mundtii",
+      "group": 1
+    },
+    {
+      "id": "Aerococcus christensenii",
+      "group": 1
+    },
+    {
+      "id": "Thermoleophilum album",
+      "group": 1
+    },
+    {
+      "id": "Weissella cibaria",
+      "group": 1
+    },
+    {
+      "id": "Fusobacterium mortiferum",
+      "group": 1
+    },
+    {
+      "id": "Paraprevotella clara",
+      "group": 1
+    },
+    {
+      "id": "Clostridium saccharolyticum",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides sp OM05 12",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides sp CAG 462",
+      "group": 1
+    },
+    {
+      "id": "Clostridium bolteae",
+      "group": 1
+    },
+    {
+      "id": "Enterococcus asini",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides fluxus",
+      "group": 1
+    },
+    {
+      "id": "Clostridium ventriculi",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides galacturonicus",
+      "group": 1
+    },
+    {
+      "id": "Eubacterium nodatum",
+      "group": 1
+    },
+    {
+      "id": "Lactococcus raffinolactis",
+      "group": 1
+    },
+    {
+      "id": "Kluyvera ascorbata",
+      "group": 1
+    },
+    {
+      "id": "Blastocystis sp subtype 1",
+      "group": 1
+    },
+    {
+      "id": "Aggregatibacter segnis",
+      "group": 1
+    },
+    {
+      "id": "Proteus penneri",
+      "group": 1
+    },
+    {
+      "id": "Roseburia sp 831b",
+      "group": 1
+    },
+    {
+      "id": "Lactobacillus curvatus",
+      "group": 1
+    },
+    {
+      "id": "Serratia marcescens",
+      "group": 1
+    },
+    {
+      "id": "Phascolarctobacterium faecium",
+      "group": 1
+    },
+    {
+      "id": "Blautia obeum",
+      "group": 1
+    },
+    {
+      "id": "Peptostreptococcus anaerobius",
+      "group": 1
+    },
+    {
+      "id": "Denitrobacterium detoxificans",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides stercoris",
+      "group": 1
+    },
+    {
+      "id": "Peptostreptococcus stomatis",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides sp CAG 927",
+      "group": 1
+    },
+    {
+      "id": "Bifidobacterium saeculare",
+      "group": 1
+    },
+    {
+      "id": "Staphylococcus hominis",
+      "group": 1
+    },
+    {
+      "id": "Corynebacterium amycolatum",
+      "group": 1
+    },
+    {
+      "id": "Lactobacillus helveticus",
+      "group": 1
+    },
+    {
+      "id": "Criibacterium bergeronii",
+      "group": 1
+    },
+    {
+      "id": "Rothia dentocariosa",
+      "group": 1
+    },
+    {
+      "id": "Butyricicoccus pullicaecorum",
+      "group": 1
+    },
+    {
+      "id": "Pediococcus pentosaceus",
+      "group": 1
+    },
+    {
+      "id": "Gemella morbillorum",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus salivarius CAG 79",
+      "group": 1
+    },
+    {
+      "id": "Leuconostoc carnosum",
+      "group": 1
+    },
+    {
+      "id": "Citrobacter sp MGH106",
+      "group": 1
+    },
+    {
+      "id": "Anaeroglobus geminatus",
+      "group": 1
+    },
+    {
+      "id": "Enterococcus raffinosus",
+      "group": 1
+    },
+    {
+      "id": "Lactobacillus animalis",
+      "group": 1
+    },
+    {
+      "id": "Clostridium celatum",
+      "group": 1
+    },
+    {
+      "id": "Lactobacillus gasseri",
+      "group": 1
+    },
+    {
+      "id": "Fusobacterium sp CAG 439",
+      "group": 1
+    },
+    {
+      "id": "Prevotella oris",
+      "group": 1
+    },
+    {
+      "id": "Acidaminococcus fermentans",
+      "group": 1
+    },
+    {
+      "id": "Actinomyces sp oral taxon 181",
+      "group": 1
+    },
+    {
+      "id": "Porphyromonas somerae",
+      "group": 1
+    },
+    {
+      "id": "Eubacterium limosum",
+      "group": 1
+    },
+    {
+      "id": "Lactobacillus saerimneri",
+      "group": 1
+    },
+    {
+      "id": "Klebsiella michiganensis",
+      "group": 1
+    },
+    {
+      "id": "Alloprevotella tannerae",
+      "group": 1
+    },
+    {
+      "id": "Selenomonas noxia",
+      "group": 1
+    },
+    {
+      "id": "Candidatus Gastranaerophilales bacterium",
+      "group": 1
+    },
+    {
+      "id": "Prevotella sp CAG 485",
+      "group": 1
+    },
+    {
+      "id": "Corynebacterium aurimucosum",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus sp HPH0090",
+      "group": 1
+    },
+    {
+      "id": "Neisseria subflava",
+      "group": 1
+    },
+    {
+      "id": "Clostridium sp CAG 299",
+      "group": 1
+    },
+    {
+      "id": "Bifidobacterium dentium",
+      "group": 1
+    },
+    {
+      "id": "Clostridiales bacterium CHKCI006",
+      "group": 1
+    },
+    {
+      "id": "Dialister invisus",
+      "group": 1
+    },
+    {
+      "id": "Prevotella jejuni",
+      "group": 1
+    },
+    {
+      "id": "Victivallis vadensis",
+      "group": 1
+    },
+    {
+      "id": "Adlercreutzia equolifaciens",
+      "group": 1
+    },
+    {
+      "id": "Carnobacterium maltaromaticum",
+      "group": 1
+    },
+    {
+      "id": "Sneathia amnii",
+      "group": 1
+    },
+    {
+      "id": "Pseudomonas aeruginosa group",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus parasanguinis",
+      "group": 1
+    },
+    {
+      "id": "Alistipes sp CAG 831",
+      "group": 1
+    },
+    {
+      "id": "Clostridium methylpentosum",
+      "group": 1
+    },
+    {
+      "id": "Aeromonas media",
+      "group": 1
+    },
+    {
+      "id": "Anaerococcus tetradius",
+      "group": 1
+    },
+    {
+      "id": "Cutibacterium avidum",
+      "group": 1
+    },
+    {
+      "id": "Alistipes sp An31A",
+      "group": 1
+    },
+    {
+      "id": "Bacillus sp FJAT 27916",
+      "group": 1
+    },
+    {
+      "id": "Eubacterium sp CAG 180",
+      "group": 1
+    },
+    {
+      "id": "Romboutsia ilealis",
+      "group": 1
+    },
+    {
+      "id": "Actinomyces sp oral taxon 170",
+      "group": 1
+    },
+    {
+      "id": "Atopobium deltae",
+      "group": 1
+    },
+    {
+      "id": "Fusobacterium ulcerans",
+      "group": 1
+    },
+    {
+      "id": "Prevotella melaninogenica",
+      "group": 1
+    },
+    {
+      "id": "Clostridium sp CAG 58",
+      "group": 1
+    },
+    {
+      "id": "Desulfovibrio piger",
+      "group": 1
+    },
+    {
+      "id": "Alistipes onderdonkii",
+      "group": 1
+    },
+    {
+      "id": "Blautia sp N6H1 15",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides sartorii",
+      "group": 1
+    },
+    {
+      "id": "Megasphaera elsdenii",
+      "group": 1
+    },
+    {
+      "id": "Peptoniphilus coxii",
+      "group": 1
+    },
+    {
+      "id": "Enterobacter mori",
+      "group": 1
+    },
+    {
+      "id": "Desulfovibrionaceae bacterium",
+      "group": 1
+    },
+    {
+      "id": "Ruminococcus bicirculans",
+      "group": 1
+    },
+    {
+      "id": "Phascolarctobacterium sp CAG 266",
+      "group": 1
+    },
+    {
+      "id": "Allisonella histaminiformans",
+      "group": 1
+    },
+    {
+      "id": "Atopobium vaginae",
+      "group": 1
+    },
+    {
+      "id": "Alistipes sp An66",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides coprocola",
+      "group": 1
+    },
+    {
+      "id": "Clostridium sp CAG 964",
+      "group": 1
+    },
+    {
+      "id": "Dialister sp CAG 357",
+      "group": 1
+    },
+    {
+      "id": "Porphyromonas endodontalis",
+      "group": 1
+    },
+    {
+      "id": "Selenomonas sputigena",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus peroris",
+      "group": 1
+    },
+    {
+      "id": "Aggregatibacter aphrophilus",
+      "group": 1
+    },
+    {
+      "id": "Enterococcus casseliflavus",
+      "group": 1
+    },
+    {
+      "id": "Clostridium leptum",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides faecichinchillae",
+      "group": 1
+    },
+    {
+      "id": "Clostridium disporicum",
+      "group": 1
+    },
+    {
+      "id": "Actinomyces graevenitzii",
+      "group": 1
+    },
+    {
+      "id": "Roseburia sp CAG 309",
+      "group": 1
+    },
+    {
+      "id": "Desulfovibrio fairfieldensis",
+      "group": 1
+    },
+    {
+      "id": "Citrobacter braakii",
+      "group": 1
+    },
+    {
+      "id": "Gemella asaccharolytica",
+      "group": 1
+    },
+    {
+      "id": "Eubacterium sp CAG 786",
+      "group": 1
+    },
+    {
+      "id": "Staphylococcus aureus",
+      "group": 1
+    },
+    {
+      "id": "Actinomyces hongkongensis",
+      "group": 1
+    },
+    {
+      "id": "Hafnia paralvei",
+      "group": 1
+    },
+    {
+      "id": "Roseburia intestinalis",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides eggerthii",
+      "group": 1
+    },
+    {
+      "id": "Moraxella osloensis",
+      "group": 1
+    },
+    {
+      "id": "Bacteroides stercorirosoris",
+      "group": 1
+    },
+    {
+      "id": "Anaerotignum lactatifermentans",
+      "group": 1
+    },
+    {
+      "id": "Eubacterium hallii",
+      "group": 1
+    },
+    {
+      "id": "Hafnia alvei",
+      "group": 1
+    },
+    {
+      "id": "Streptococcus sinensis",
+      "group": 1
+    },
+    {
+      "id": "Alistipes finegoldii",
+      "group": 1
+    },
+    {
+      "id": "Gordonibacter pamelaeae",
+      "group": 1
+    },
+    {
+      "id": "Lactococcus lactis",
+      "group": 1
+    },
+    {
+      "id": "Parvimonas sp oral taxon 393",
+      "group": 1
+    },
+    {
+      "id": "Sellimonas intestinalis",
+      "group": 1
+    },
+    {
+      "id": "Comamonas kerstersii",
+      "group": 1
+    },
+    {
+      "id": "Clostridium cadaveris",
+      "group": 1
+    }
+  ],
+  "links": [
+    {
+      "source": "Abiotrophia defectiva",
+      "target": "Abiotrophia sp HMSC24B09",
+      "value": 0.2518628912071535
+    },
+    {
+      "source": "Abiotrophia sp HMSC24B09",
+      "target": "Gemella haemolysans",
+      "value": 0.11624441132637854
+    },
+    {
+      "source": "Absiella dolichum",
+      "target": "Eubacterium dolichum CAG 375",
+      "value": 0.789865871833085
+    },
+    {
+      "source": "Achromobacter xylosoxidans",
+      "target": "Pseudomonas aeruginosa group",
+      "value": 0.22503725782414308
+    },
+    {
+      "source": "Acidaminococcus fermentans",
+      "target": "Dialister succinatiphilus",
+      "value": 0.19076005961251863
+    },
+    {
+      "source": "Acidaminococcus intestini",
+      "target": "Clostridium bolteae",
+      "value": 0.06408345752608048
+    },
+    {
+      "source": "Acidaminococcus sp CAG 542",
+      "target": "Acidaminococcus fermentans",
+      "value": 0.4038748137108793
+    },
+    {
+      "source": "Acinetobacter johnsonii",
+      "target": "Kluyvera ascorbata",
+      "value": 0.19225037257824143
+    },
+    {
+      "source": "Actinobaculum sp oral taxon 183",
+      "target": "Atopobium parvulum",
+      "value": 0.09985096870342772
+    },
+    {
+      "source": "Actinomyces cardiffensis",
+      "target": "Gemella morbillorum",
+      "value": 0.19523099850968703
+    },
+    {
+      "source": "Actinomyces europaeus",
+      "target": "Varibaculum cambriense",
+      "value": 0.12071535022354694
+    },
+    {
+      "source": "Actinomyces graevenitzii",
+      "target": "Actinomyces sp HMSC035G02",
+      "value": 0.3263785394932936
+    },
+    {
+      "source": "Actinomyces hongkongensis",
+      "target": "Actinomyces sp S6 Spd3",
+      "value": 0.14157973174366617
+    },
+    {
+      "source": "Actinomyces johnsonii",
+      "target": "Actinomyces massiliensis",
+      "value": 0.18032786885245902
+    },
+    {
+      "source": "Actinomyces massiliensis",
+      "target": "Actinomyces naeslundii",
+      "value": 0.4828614008941878
+    },
+    {
+      "source": "Actinomyces naeslundii",
+      "target": "Actinomyces sp ICM47",
+      "value": 0.31594634873323396
+    },
+    {
+      "source": "Actinomyces odontolyticus",
+      "target": "Actinomyces sp HMSC035G02",
+      "value": 0.21758569299552907
+    },
+    {
+      "source": "Actinomyces oris",
+      "target": "Collinsella aerofaciens",
+      "value": 0.14903129657228018
+    },
+    {
+      "source": "Actinomyces sp HMSC035G02",
+      "target": "Actinomyces odontolyticus",
+      "value": 0.5380029806259314
+    },
+    {
+      "source": "Actinomyces sp HPA0247",
+      "target": "Actinomyces sp HMSC035G02",
+      "value": 0.10283159463487332
+    },
+    {
+      "source": "Actinomyces sp ICM47",
+      "target": "Actinomyces graevenitzii",
+      "value": 0.2533532041728763
+    },
+    {
+      "source": "Actinomyces sp S6 Spd3",
+      "target": "Atopobium parvulum",
+      "value": 0.18032786885245902
+    },
+    {
+      "source": "Actinomyces sp oral taxon 170",
+      "target": "Actinomyces naeslundii",
+      "value": 0.29508196721311475
+    },
+    {
+      "source": "Actinomyces sp oral taxon 180",
+      "target": "Actinomyces oris",
+      "value": 0.12518628912071536
+    },
+    {
+      "source": "Actinomyces sp oral taxon 181",
+      "target": "Actinomyces sp S6 Spd3",
+      "value": 0.13859910581222057
+    },
+    {
+      "source": "Actinomyces sp oral taxon 414",
+      "target": "Bifidobacterium adolescentis",
+      "value": 0.21758569299552907
+    },
+    {
+      "source": "Actinomyces sp oral taxon 448",
+      "target": "Actinomyces oris",
+      "value": 0.3710879284649776
+    },
+    {
+      "source": "Actinomyces sp oral taxon 897",
+      "target": "Actinomyces sp oral taxon 414",
+      "value": 0.14903129657228018
+    },
+    {
+      "source": "Actinomyces turicensis",
+      "target": "Atopobium minutum",
+      "value": 0.18926974664679583
+    },
+    {
+      "source": "Actinomyces urogenitalis",
+      "target": "Bifidobacterium bifidum",
+      "value": 0.22652757078986588
+    },
+    {
+      "source": "Actinomyces viscosus",
+      "target": "Actinomyces oris",
+      "value": 0.5141579731743666
+    },
+    {
+      "source": "Adlercreutzia equolifaciens",
+      "target": "Asaccharobacter celatus",
+      "value": 0.5469448584202683
+    },
+    {
+      "source": "Aeriscardovia aeriphila",
+      "target": "Bifidobacterium adolescentis",
+      "value": 0.30700447093889716
+    },
+    {
+      "source": "Aerococcus christensenii",
+      "target": "Lactobacillus iners",
+      "value": 0.21311475409836064
+    },
+    {
+      "source": "Aeromonas caviae",
+      "target": "Citrobacter pasteurii",
+      "value": 0.11475409836065574
+    },
+    {
+      "source": "Aeromonas hydrophila",
+      "target": "Haemophilus parahaemolyticus",
+      "value": 0.16244411326378538
+    },
+    {
+      "source": "Aeromonas media",
+      "target": "Aeromonas caviae",
+      "value": 0.09239940387481371
+    },
+    {
+      "source": "Aeromonas veronii",
+      "target": "Streptococcus sp HPH0090",
+      "value": 0.23397913561847988
+    },
+    {
+      "source": "Agathobaculum butyriciproducens",
+      "target": "Faecalibacterium prausnitzii",
+      "value": 0.10730253353204174
+    },
+    {
+      "source": "Aggregatibacter aphrophilus",
+      "target": "Haemophilus paraphrohaemolyticus",
+      "value": 0.15052160953800298
+    },
+    {
+      "source": "Aggregatibacter segnis",
+      "target": "Fusobacterium nucleatum",
+      "value": 0.16840536512667661
+    },
+    {
+      "source": "Aggregatibacter sp oral taxon 458",
+      "target": "Campylobacter concisus",
+      "value": 0.35171385991058124
+    },
+    {
+      "source": "Akkermansia muciniphila",
+      "target": "Ruthenibacterium lactatiformans",
+      "value": 0.14754098360655737
+    },
+    {
+      "source": "Alistipes finegoldii",
+      "target": "Pseudoflavonifractor capillosus",
+      "value": 0.11773472429210134
+    },
+    {
+      "source": "Alistipes indistinctus",
+      "target": "Prevotella copri",
+      "value": 0.11028315946348734
+    },
+    {
+      "source": "Alistipes inops",
+      "target": "Alistipes putredinis",
+      "value": 0.21311475409836064
+    },
+    {
+      "source": "Alistipes onderdonkii",
+      "target": "Alistipes finegoldii",
+      "value": 0.14008941877794337
+    },
+    {
+      "source": "Alistipes putredinis",
+      "target": "Alistipes shahii",
+      "value": 0.10283159463487332
+    },
+    {
+      "source": "Alistipes shahii",
+      "target": "Alistipes putredinis",
+      "value": 0.10283159463487332
+    },
+    {
+      "source": "Alistipes sp An31A",
+      "target": "Bacteroides sp CAG 661",
+      "value": 0.12965722801788376
+    },
+    {
+      "source": "Alistipes sp An66",
+      "target": "Bacteroides sp CAG 144",
+      "value": 0.18777943368107303
+    },
+    {
+      "source": "Alistipes sp CAG 831",
+      "target": "Bacteroides sp CAG 144",
+      "value": 0.30998509687034276
+    },
+    {
+      "source": "Alistipes sp CHKCI003",
+      "target": "Lactobacillus curvatus",
+      "value": 0.19523099850968703
+    },
+    {
+      "source": "Alistipes timonensis",
+      "target": "Alistipes shahii",
+      "value": 0.14157973174366617
+    },
+    {
+      "source": "Allisonella histaminiformans",
+      "target": "Veillonella sp CAG 933",
+      "value": 0.08941877794336811
+    },
+    {
+      "source": "Alloprevotella tannerae",
+      "target": "Parvimonas micra",
+      "value": 0.14754098360655737
+    },
+    {
+      "source": "Alloscardovia omnicolens",
+      "target": "Prevotella timonensis",
+      "value": 0.14157973174366617
+    },
+    {
+      "source": "Anaerobiospirillum thomasii",
+      "target": "Cutibacterium acnes",
+      "value": 0.13263785394932937
+    },
+    {
+      "source": "Anaerococcus hydrogenalis",
+      "target": "Enterococcus faecalis",
+      "value": 0.18628912071535023
+    },
+    {
+      "source": "Anaerococcus lactolyticus",
+      "target": "Finegoldia magna",
+      "value": 0.17883755588673622
+    },
+    {
+      "source": "Anaerococcus octavius",
+      "target": "Finegoldia magna",
+      "value": 0.16542473919523099
+    },
+    {
+      "source": "Anaerococcus prevotii",
+      "target": "Prevotella bivia",
+      "value": 0.15648286140089418
+    },
+    {
+      "source": "Anaerococcus tetradius",
+      "target": "Streptococcus anginosus group",
+      "value": 0.22503725782414308
+    },
+    {
+      "source": "Anaerococcus vaginalis",
+      "target": "Finegoldia magna",
+      "value": 0.3263785394932936
+    },
+    {
+      "source": "Anaerofilum sp An201",
+      "target": "Pseudoflavonifractor sp An184",
+      "value": 0.20268256333830104
+    },
+    {
+      "source": "Anaerofustis stercorihominis",
+      "target": "Blautia sp An249",
+      "value": 0.12518628912071536
+    },
+    {
+      "source": "Anaeroglobus geminatus",
+      "target": "Clostridium clostridioforme",
+      "value": 0.2459016393442623
+    },
+    {
+      "source": "Anaeromassilibacillus sp An172",
+      "target": "Anaerotignum lactatifermentans",
+      "value": 0.20715350223546944
+    },
+    {
+      "source": "Anaeromassilibacillus sp An250",
+      "target": "Pseudoflavonifractor sp An184",
+      "value": 0.16095380029806258
+    },
+    {
+      "source": "Anaerostipes caccae",
+      "target": "Clostridium innocuum",
+      "value": 0.3055141579731744
+    },
+    {
+      "source": "Anaerostipes hadrus",
+      "target": "Blautia wexlerae",
+      "value": 0.12965722801788376
+    },
+    {
+      "source": "Anaerotignum lactatifermentans",
+      "target": "Flavonifractor plautii",
+      "value": 0.17585692995529062
+    },
+    {
+      "source": "Anaerotruncus colihominis",
+      "target": "Ruthenibacterium lactatiformans",
+      "value": 0.19970193740685543
+    },
+    {
+      "source": "Anaerotruncus sp CAG 528",
+      "target": "Oscillibacter sp PC13",
+      "value": 0.16989567809239942
+    },
+    {
+      "source": "Aneurinibacillus migulanus",
+      "target": "Prevotella sp CAG 873",
+      "value": 0.323397913561848
+    },
+    {
+      "source": "Arcobacter butzleri",
+      "target": "Pseudomonas aeruginosa group",
+      "value": 0.17138599105812222
+    },
+    {
+      "source": "Asaccharobacter celatus",
+      "target": "Adlercreutzia equolifaciens",
+      "value": 0.526080476900149
+    },
+    {
+      "source": "Atlantibacter hermannii",
+      "target": "Weissella cibaria",
+      "value": 0.22652757078986588
+    },
+    {
+      "source": "Atopobium deltae",
+      "target": "Peptoniphilus harei",
+      "value": 0.09239940387481371
+    },
+    {
+      "source": "Atopobium minutum",
+      "target": "Actinomyces turicensis",
+      "value": 0.29210134128166915
+    },
+    {
+      "source": "Atopobium parvulum",
+      "target": "Atopobium rimae",
+      "value": 0.28315946348733234
+    },
+    {
+      "source": "Atopobium rimae",
+      "target": "Atopobium parvulum",
+      "value": 0.19821162444113263
+    },
+    {
+      "source": "Atopobium vaginae",
+      "target": "Streptococcus milleri",
+      "value": 0.19523099850968703
+    },
+    {
+      "source": "Bacillus butanolivorans",
+      "target": "Bacteroides caccae",
+      "value": 0.19970193740685543
+    },
+    {
+      "source": "Bacillus cereus group",
+      "target": "Lactococcus piscium",
+      "value": 0.2518628912071535
+    },
+    {
+      "source": "Bacillus marisflavi",
+      "target": "Prevotella stercorea",
+      "value": 0.22056631892697467
+    },
+    {
+      "source": "Bacillus sp FJAT 27916",
+      "target": "Escherichia coli",
+      "value": 0.26527570789865873
+    },
+    {
+      "source": "Bacteroidales bacterium KA00251",
+      "target": "Porphyromonas uenonis",
+      "value": 0.3025335320417288
+    },
+    {
+      "source": "Bacteroides caccae",
+      "target": "Clostridium hylemonae",
+      "value": 0.07302533532041729
+    },
+    {
+      "source": "Bacteroides cellulosilyticus",
+      "target": "Parabacteroides distasonis",
+      "value": 0.08643815201192251
+    },
+    {
+      "source": "Bacteroides clarus",
+      "target": "Coprobacter secundus",
+      "value": 0.10879284649776454
+    },
+    {
+      "source": "Bacteroides coagulans",
+      "target": "Atopobium minutum",
+      "value": 0.16542473919523099
+    },
+    {
+      "source": "Bacteroides coprocola",
+      "target": "Bacteroides plebeius",
+      "value": 0.21311475409836064
+    },
+    {
+      "source": "Bacteroides coprophilus",
+      "target": "Prevotella copri",
+      "value": 0.13263785394932937
+    },
+    {
+      "source": "Bacteroides dorei",
+      "target": "Bacteroides vulgatus",
+      "value": 0.20268256333830104
+    },
+    {
+      "source": "Bacteroides eggerthii",
+      "target": "Bacteroides uniformis",
+      "value": 0.09388971684053651
+    },
+    {
+      "source": "Bacteroides faecichinchillae",
+      "target": "Odoribacter splanchnicus",
+      "value": 0.12518628912071536
+    },
+    {
+      "source": "Bacteroides faecis",
+      "target": "Bacteroides faecis CAG 32",
+      "value": 0.23248882265275708
+    },
+    {
+      "source": "Bacteroides faecis CAG 32",
+      "target": "Bacteroides faecis",
+      "value": 0.9388971684053651
+    },
+    {
+      "source": "Bacteroides finegoldii",
+      "target": "Bacteroides massiliensis",
+      "value": 0.37555886736214605
+    },
+    {
+      "source": "Bacteroides fluxus",
+      "target": "Cutibacterium acnes",
+      "value": 0.11922503725782414
+    },
+    {
+      "source": "Bacteroides fragilis",
+      "target": "Prevotella buccae",
+      "value": 0.09985096870342772
+    },
+    {
+      "source": "Bacteroides galacturonicus",
+      "target": "Lachnospira pectinoschiza",
+      "value": 0.5499254843517138
+    },
+    {
+      "source": "Bacteroides intestinalis",
+      "target": "Candidatus Gastranaerophilales bacterium",
+      "value": 0.09687034277198212
+    },
+    {
+      "source": "Bacteroides massiliensis",
+      "target": "Bacteroides stercoris",
+      "value": 0.08196721311475409
+    },
+    {
+      "source": "Bacteroides nordii",
+      "target": "Parvimonas micra",
+      "value": 0.08494783904619971
+    },
+    {
+      "source": "Bacteroides oleiciplenus",
+      "target": "Butyricimonas virosa",
+      "value": 0.2608047690014903
+    },
+    {
+      "source": "Bacteroides ovatus",
+      "target": "Clostridium clostridioforme",
+      "value": 0.18479880774962743
+    },
+    {
+      "source": "Bacteroides pectinophilus",
+      "target": "Butyrivibrio crossotus",
+      "value": 0.14157973174366617
+    },
+    {
+      "source": "Bacteroides plebeius",
+      "target": "Bacteroides coprocola",
+      "value": 0.16691505216095381
+    },
+    {
+      "source": "Bacteroides salanitronis",
+      "target": "Faecalicoccus pleomorphus",
+      "value": 0.11028315946348734
+    },
+    {
+      "source": "Bacteroides salyersiae",
+      "target": "Paraprevotella xylaniphila",
+      "value": 0.028315946348733235
+    },
+    {
+      "source": "Bacteroides sartorii",
+      "target": "Bacteroides intestinalis",
+      "value": 0.10730253353204174
+    },
+    {
+      "source": "Bacteroides sp 43 108",
+      "target": "Bacteroides sp CAG 633",
+      "value": 0.22801788375558868
+    },
+    {
+      "source": "Bacteroides sp CAG 144",
+      "target": "Barnesiella intestinihominis",
+      "value": 0.04769001490312966
+    },
+    {
+      "source": "Bacteroides sp CAG 443",
+      "target": "Prevotella sp CAG 1185",
+      "value": 0.2399403874813711
+    },
+    {
+      "source": "Bacteroides sp CAG 462",
+      "target": "Prevotella sp CAG 755",
+      "value": 0.19970193740685543
+    },
+    {
+      "source": "Bacteroides sp CAG 530",
+      "target": "Prevotella sp 885",
+      "value": 0.13859910581222057
+    },
+    {
+      "source": "Bacteroides sp CAG 598",
+      "target": "Bacteroides sp CAG 661",
+      "value": 0.33084947839046197
+    },
+    {
+      "source": "Bacteroides sp CAG 633",
+      "target": "Parabacteroides sp CAG 409",
+      "value": 0.2444113263785395
+    },
+    {
+      "source": "Bacteroides sp CAG 661",
+      "target": "Bacteroides coprophilus",
+      "value": 0.22503725782414308
+    },
+    {
+      "source": "Bacteroides sp CAG 927",
+      "target": "Clostridium sp CAG 413",
+      "value": 0.14008941877794337
+    },
+    {
+      "source": "Bacteroides sp D2",
+      "target": "Bacteroides dorei",
+      "value": 0.18479880774962743
+    },
+    {
+      "source": "Bacteroides sp OM05 12",
+      "target": "Fusobacterium varium",
+      "value": 0.18330849478390462
+    },
+    {
+      "source": "Bacteroides sp OM08 11",
+      "target": "Brachyspira sp CAG 700",
+      "value": 0.2503725782414307
+    },
+    {
+      "source": "Bacteroides stercorirosoris",
+      "target": "Eisenbergiella massiliensis",
+      "value": 0.11773472429210134
+    },
+    {
+      "source": "Bacteroides stercoris",
+      "target": "Bacteroides vulgatus",
+      "value": 0.06855439642324888
+    },
+    {
+      "source": "Bacteroides thetaiotaomicron",
+      "target": "Bacteroides ovatus",
+      "value": 0.10581222056631892
+    },
+    {
+      "source": "Bacteroides uniformis",
+      "target": "Bacteroides vulgatus",
+      "value": 0.05961251862891207
+    },
+    {
+      "source": "Bacteroides vulgatus",
+      "target": "Bacteroides dorei",
+      "value": 0.10879284649776454
+    },
+    {
+      "source": "Bacteroides xylanisolvens",
+      "target": "Bacteroides vulgatus",
+      "value": 0.10730253353204174
+    },
+    {
+      "source": "Barnesiella intestinihominis",
+      "target": "Odoribacter splanchnicus",
+      "value": 0.11326378539493294
+    },
+    {
+      "source": "Barnesiella sp An22",
+      "target": "Butyrivibrio crossotus",
+      "value": 0.15350223546944858
+    },
+    {
+      "source": "Barnesiella viscericola",
+      "target": "Desulfovibrio fairfieldensis",
+      "value": 0.14008941877794337
+    },
+    {
+      "source": "Bifidobacterium adolescentis",
+      "target": "Bifidobacterium longum",
+      "value": 0.16095380029806258
+    },
+    {
+      "source": "Bifidobacterium angulatum",
+      "target": "Bifidobacterium catenulatum",
+      "value": 0.26229508196721313
+    },
+    {
+      "source": "Bifidobacterium animalis",
+      "target": "Lactobacillus acidophilus",
+      "value": 0.17883755588673622
+    },
+    {
+      "source": "Bifidobacterium bifidum",
+      "target": "Bifidobacterium longum",
+      "value": 0.22950819672131148
+    },
+    {
+      "source": "Bifidobacterium breve",
+      "target": "Bifidobacterium dentium",
+      "value": 0.20566318926974664
+    },
+    {
+      "source": "Bifidobacterium catenulatum",
+      "target": "Bifidobacterium longum",
+      "value": 0.19523099850968703
+    },
+    {
+      "source": "Bifidobacterium dentium",
+      "target": "Lactobacillus paragasseri",
+      "value": 0.13114754098360656
+    },
+    {
+      "source": "Bifidobacterium gallinarum",
+      "target": "Bifidobacterium pullorum",
+      "value": 0.2488822652757079
+    },
+    {
+      "source": "Bifidobacterium kashiwanohense",
+      "target": "Bifidobacterium breve",
+      "value": 0.5901639344262295
+    },
+    {
+      "source": "Bifidobacterium longum",
+      "target": "Enterococcus avium",
+      "value": 0.12220566318926974
+    },
+    {
+      "source": "Bifidobacterium pseudocatenulatum",
+      "target": "Bifidobacterium longum",
+      "value": 0.21758569299552907
+    },
+    {
+      "source": "Bifidobacterium pseudolongum",
+      "target": "Citrobacter amalonaticus",
+      "value": 0.10879284649776454
+    },
+    {
+      "source": "Bifidobacterium pullorum",
+      "target": "Bifidobacterium gallinarum",
+      "value": 0.11773472429210134
+    },
+    {
+      "source": "Bifidobacterium ruminantium",
+      "target": "Olsenella scatoligenes",
+      "value": 0.3114754098360656
+    },
+    {
+      "source": "Bifidobacterium saeculare",
+      "target": "Bifidobacterium pullorum",
+      "value": 0.22950819672131148
+    },
+    {
+      "source": "Bifidobacterium scardovii",
+      "target": "Parascardovia denticolens",
+      "value": 0.12965722801788376
+    },
+    {
+      "source": "Bilophila wadsworthia",
+      "target": "Flavonifractor plautii",
+      "value": 0.05514157973174367
+    },
+    {
+      "source": "Blastocystis sp subtype 1",
+      "target": "Oscillibacter sp 57 20",
+      "value": 0.2473919523099851
+    },
+    {
+      "source": "Blautia coccoides",
+      "target": "Anaerostipes caccae",
+      "value": 0.16840536512667661
+    },
+    {
+      "source": "Blautia hansenii",
+      "target": "Blautia sp CAG 257",
+      "value": 0.33084947839046197
+    },
+    {
+      "source": "Blautia hydrogenotrophica",
+      "target": "Eggerthella lenta",
+      "value": 0.12965722801788376
+    },
+    {
+      "source": "Blautia obeum",
+      "target": "Eubacterium ramulus",
+      "value": 0.08196721311475409
+    },
+    {
+      "source": "Blautia producta",
+      "target": "Blautia coccoides",
+      "value": 0.4843517138599106
+    },
+    {
+      "source": "Blautia sp An249",
+      "target": "Blautia sp CAG 257",
+      "value": 0.3740685543964232
+    },
+    {
+      "source": "Blautia sp CAG 257",
+      "target": "Blautia coccoides",
+      "value": 0.18926974664679583
+    },
+    {
+      "source": "Blautia sp N6H1 15",
+      "target": "Blautia sp CAG 257",
+      "value": 0.47540983606557374
+    },
+    {
+      "source": "Blautia wexlerae",
+      "target": "Anaerostipes hadrus",
+      "value": 0.16393442622950818
+    },
+    {
+      "source": "Brachyspira pilosicoli",
+      "target": "Fusobacterium mortiferum",
+      "value": 0.09538002980625931
+    },
+    {
+      "source": "Brachyspira sp CAG 700",
+      "target": "Prevotella stercorea",
+      "value": 0.2444113263785395
+    },
+    {
+      "source": "Butyribacterium methylotrophicum",
+      "target": "Eubacterium limosum",
+      "value": 0.736214605067064
+    },
+    {
+      "source": "Butyricicoccus pullicaecorum",
+      "target": "Lachnoclostridium sp An14",
+      "value": 0.10283159463487332
+    },
+    {
+      "source": "Butyricimonas synergistica",
+      "target": "Butyricimonas virosa",
+      "value": 0.2995529061102832
+    },
+    {
+      "source": "Butyricimonas virosa",
+      "target": "Odoribacter splanchnicus",
+      "value": 0.10283159463487332
+    },
+    {
+      "source": "Butyrivibrio crossotus",
+      "target": "Firmicutes bacterium CAG 95",
+      "value": 0.10134128166915052
+    },
+    {
+      "source": "Butyrivibrio sp CAG 318",
+      "target": "Firmicutes bacterium CAG 534",
+      "value": 0.13412816691505217
+    },
+    {
+      "source": "Campylobacter concisus",
+      "target": "Veillonella atypica",
+      "value": 0.15499254843517138
+    },
+    {
+      "source": "Campylobacter gracilis",
+      "target": "Megasphaera micronuciformis",
+      "value": 0.12667660208643816
+    },
+    {
+      "source": "Campylobacter hominis",
+      "target": "Finegoldia magna",
+      "value": 0.14903129657228018
+    },
+    {
+      "source": "Campylobacter jejuni",
+      "target": "Odoribacter splanchnicus",
+      "value": 0.21758569299552907
+    },
+    {
+      "source": "Campylobacter showae",
+      "target": "Megasphaera micronuciformis",
+      "value": 0.2429210134128167
+    },
+    {
+      "source": "Campylobacter upsaliensis",
+      "target": "Prevotella stercorea",
+      "value": 0.18926974664679583
+    },
+    {
+      "source": "Campylobacter ureolyticus",
+      "target": "Peptoniphilus sp HMSC062D09",
+      "value": 0.17138599105812222
+    },
+    {
+      "source": "Candida albicans",
+      "target": "Enterococcus faecium",
+      "value": 0.21013412816691504
+    },
+    {
+      "source": "Candidatus Gastranaerophilales bacterium",
+      "target": "Bacteroides intestinalis",
+      "value": 0.14903129657228018
+    },
+    {
+      "source": "Candidatus Gastranaerophilales bacterium HUM 9",
+      "target": "Anaerobiospirillum thomasii",
+      "value": 0.11773472429210134
+    },
+    {
+      "source": "Candidatus Methanomassiliicoccus intestinalis",
+      "target": "Ruminococcaceae bacterium D5",
+      "value": 0.4307004470938897
+    },
+    {
+      "source": "Candidatus Stoquefichus sp KLE1796",
+      "target": "Blautia sp CAG 257",
+      "value": 0.21758569299552907
+    },
+    {
+      "source": "Cardiobacterium valvarum",
+      "target": "Streptococcus cristatus",
+      "value": 0.15797317436661698
+    },
+    {
+      "source": "Carnobacterium divergens",
+      "target": "Leuconostoc mesenteroides",
+      "value": 0.27719821162444114
+    },
+    {
+      "source": "Carnobacterium maltaromaticum",
+      "target": "Leuconostoc mesenteroides",
+      "value": 0.22503725782414308
+    },
+    {
+      "source": "Catabacter hongkongensis",
+      "target": "Christensenella minuta",
+      "value": 0.18479880774962743
+    },
+    {
+      "source": "Catenibacterium mitsuokai",
+      "target": "Sharpea azabuensis",
+      "value": 0.28912071535022354
+    },
+    {
+      "source": "Cellulosilyticum lentocellum",
+      "target": "Veillonella sp T11011 6",
+      "value": 0.12518628912071536
+    },
+    {
+      "source": "Cetobacterium somerae",
+      "target": "Terrisporobacter othiniensis",
+      "value": 0.19821162444113263
+    },
+    {
+      "source": "Christensenella minuta",
+      "target": "Catabacter hongkongensis",
+      "value": 0.23099850968703428
+    },
+    {
+      "source": "Citrobacter amalonaticus",
+      "target": "Fusobacterium ulcerans",
+      "value": 0.13859910581222057
+    },
+    {
+      "source": "Citrobacter braakii",
+      "target": "Citrobacter youngae",
+      "value": 0.3621460506706408
+    },
+    {
+      "source": "Citrobacter europaeus",
+      "target": "Citrobacter youngae",
+      "value": 0.22056631892697467
+    },
+    {
+      "source": "Citrobacter farmeri",
+      "target": "Citrobacter pasteurii",
+      "value": 0.15648286140089418
+    },
+    {
+      "source": "Citrobacter freundii",
+      "target": "Citrobacter youngae",
+      "value": 0.819672131147541
+    },
+    {
+      "source": "Citrobacter koseri",
+      "target": "Bacteroides sp D2",
+      "value": 0.09836065573770492
+    },
+    {
+      "source": "Citrobacter pasteurii",
+      "target": "Citrobacter youngae",
+      "value": 0.293591654247392
+    },
+    {
+      "source": "Citrobacter portucalensis",
+      "target": "Citrobacter youngae",
+      "value": 0.5678092399403875
+    },
+    {
+      "source": "Citrobacter sp MGH106",
+      "target": "Citrobacter pasteurii",
+      "value": 0.2563338301043219
+    },
+    {
+      "source": "Citrobacter werkmanii",
+      "target": "Corynebacterium amycolatum",
+      "value": 0.14157973174366617
+    },
+    {
+      "source": "Citrobacter youngae",
+      "target": "Citrobacter freundii",
+      "value": 0.38450074515648286
+    },
+    {
+      "source": "Clavibacter michiganensis",
+      "target": "Atopobium parvulum",
+      "value": 0.13710879284649777
+    },
+    {
+      "source": "Cloacibacillus porcorum",
+      "target": "Methanobrevibacter smithii",
+      "value": 0.11475409836065574
+    },
+    {
+      "source": "Clostridiales bacterium 1 7 47FAA",
+      "target": "Cupriavidus metallidurans",
+      "value": 0.18777943368107303
+    },
+    {
+      "source": "Clostridiales bacterium CHKCI006",
+      "target": "Blautia producta",
+      "value": 0.18777943368107303
+    },
+    {
+      "source": "Clostridioides difficile",
+      "target": "Clostridium innocuum",
+      "value": 0.2846497764530551
+    },
+    {
+      "source": "Clostridium aldenense",
+      "target": "Clostridium citroniae",
+      "value": 0.2429210134128167
+    },
+    {
+      "source": "Clostridium asparagiforme",
+      "target": "Clostridium citroniae",
+      "value": 0.17883755588673622
+    },
+    {
+      "source": "Clostridium baratii",
+      "target": "Clostridium perfringens",
+      "value": 0.27421758569299554
+    },
+    {
+      "source": "Clostridium bolteae",
+      "target": "Hungatella hathewayi",
+      "value": 0.17138599105812222
+    },
+    {
+      "source": "Clostridium bolteae CAG 59",
+      "target": "Clostridium bolteae",
+      "value": 0.481371087928465
+    },
+    {
+      "source": "Clostridium butyricum",
+      "target": "Clostridioides difficile",
+      "value": 0.11475409836065574
+    },
+    {
+      "source": "Clostridium cadaveris",
+      "target": "Veillonella infantium",
+      "value": 0.14157973174366617
+    },
+    {
+      "source": "Clostridium celatum",
+      "target": "Clostridium disporicum",
+      "value": 0.34277198211624443
+    },
+    {
+      "source": "Clostridium citroniae",
+      "target": "Clostridium lavalense",
+      "value": 0.18628912071535023
+    },
+    {
+      "source": "Clostridium clostridioforme",
+      "target": "Clostridium bolteae",
+      "value": 0.21460506706408347
+    },
+    {
+      "source": "Clostridium disporicum",
+      "target": "Turicibacter sanguinis",
+      "value": 0.29508196721311475
+    },
+    {
+      "source": "Clostridium hiranonis",
+      "target": "Firmicutes bacterium CAG 424",
+      "value": 0.2593144560357675
+    },
+    {
+      "source": "Clostridium hylemonae",
+      "target": "Clostridium methylpentosum",
+      "value": 0.13859910581222057
+    },
+    {
+      "source": "Clostridium innocuum",
+      "target": "Ruthenibacterium lactatiformans",
+      "value": 0.15201192250372578
+    },
+    {
+      "source": "Clostridium lavalense",
+      "target": "Clostridium clostridioforme",
+      "value": 0.2518628912071535
+    },
+    {
+      "source": "Clostridium leptum",
+      "target": "Anaerofustis stercorihominis",
+      "value": 0.11624441132637854
+    },
+    {
+      "source": "Clostridium methylpentosum",
+      "target": "Harryflintia acetispora",
+      "value": 0.2697466467958271
+    },
+    {
+      "source": "Clostridium neonatale",
+      "target": "Campylobacter concisus",
+      "value": 0.2608047690014903
+    },
+    {
+      "source": "Clostridium paraputrificum",
+      "target": "Clostridium perfringens",
+      "value": 0.23099850968703428
+    },
+    {
+      "source": "Clostridium perfringens",
+      "target": "Clostridium ventriculi",
+      "value": 0.20268256333830104
+    },
+    {
+      "source": "Clostridium saccharolyticum",
+      "target": "Pseudoflavonifractor sp An184",
+      "value": 0.16244411326378538
+    },
+    {
+      "source": "Clostridium scindens",
+      "target": "Lactonifactor longoviformis",
+      "value": 0.18181818181818182
+    },
+    {
+      "source": "Clostridium sp 7 2 43FAA",
+      "target": "Lactococcus lactis",
+      "value": 0.22354694485842028
+    },
+    {
+      "source": "Clostridium sp CAG 167",
+      "target": "Roseburia sp CAG 309",
+      "value": 0.07451564828614009
+    },
+    {
+      "source": "Clostridium sp CAG 242",
+      "target": "Anaerotignum lactatifermentans",
+      "value": 0.12220566318926974
+    },
+    {
+      "source": "Clostridium sp CAG 253",
+      "target": "Roseburia sp CAG 303",
+      "value": 0.10432190760059612
+    },
+    {
+      "source": "Clostridium sp CAG 299",
+      "target": "Blautia sp N6H1 15",
+      "value": 0.20268256333830104
+    },
+    {
+      "source": "Clostridium sp CAG 411",
+      "target": "Ruminococcus sp CAG 563",
+      "value": 0.23099850968703428
+    },
+    {
+      "source": "Clostridium sp CAG 413",
+      "target": "Firmicutes bacterium CAG 110",
+      "value": 0.15350223546944858
+    },
+    {
+      "source": "Clostridium sp CAG 510",
+      "target": "Clostridium sp CAG 413",
+      "value": 0.18181818181818182
+    },
+    {
+      "source": "Clostridium sp CAG 58",
+      "target": "Clostridium citroniae",
+      "value": 0.12518628912071536
+    },
+    {
+      "source": "Clostridium sp CAG 590",
+      "target": "Butyrivibrio crossotus",
+      "value": 0.2995529061102832
+    },
+    {
+      "source": "Clostridium sp CAG 632",
+      "target": "Firmicutes bacterium CAG 95",
+      "value": 0.19374068554396423
+    },
+    {
+      "source": "Clostridium sp CAG 678",
+      "target": "Clostridiales bacterium CHKCI006",
+      "value": 0.17138599105812222
+    },
+    {
+      "source": "Clostridium sp CAG 964",
+      "target": "Bifidobacterium animalis",
+      "value": 0.11028315946348734
+    },
+    {
+      "source": "Clostridium sp D5",
+      "target": "Desulfovibrio fairfieldensis",
+      "value": 0.18926974664679583
+    },
+    {
+      "source": "Clostridium sp MSTE9",
+      "target": "Megasphaera micronuciformis",
+      "value": 0.19970193740685543
+    },
+    {
+      "source": "Clostridium sp chh4 2",
+      "target": "Clostridium asparagiforme",
+      "value": 0.15499254843517138
+    },
+    {
+      "source": "Clostridium spiroforme",
+      "target": "Erysipelatoclostridium ramosum",
+      "value": 0.11475409836065574
+    },
+    {
+      "source": "Clostridium symbiosum",
+      "target": "Hungatella hathewayi",
+      "value": 0.2503725782414307
+    },
+    {
+      "source": "Clostridium ventriculi",
+      "target": "Treponema berlinense",
+      "value": 0.19970193740685543
+    },
+    {
+      "source": "Collinsella aerofaciens",
+      "target": "Collinsella intestinalis",
+      "value": 0.15648286140089418
+    },
+    {
+      "source": "Collinsella intestinalis",
+      "target": "Blautia sp CAG 257",
+      "value": 0.16393442622950818
+    },
+    {
+      "source": "Collinsella massiliensis",
+      "target": "Enorma massiliensis",
+      "value": 0.16095380029806258
+    },
+    {
+      "source": "Comamonas kerstersii",
+      "target": "Anaerobiospirillum thomasii",
+      "value": 0.15797317436661698
+    },
+    {
+      "source": "Coprobacillus cateniformis",
+      "target": "Eisenbergiella tayi",
+      "value": 0.12667660208643816
+    },
+    {
+      "source": "Coprobacter fastidiosus",
+      "target": "Bacteroides thetaiotaomicron",
+      "value": 0.05216095380029806
+    },
+    {
+      "source": "Coprobacter secundus",
+      "target": "Odoribacter splanchnicus",
+      "value": 0.18777943368107303
+    },
+    {
+      "source": "Coprobacter sp",
+      "target": "Alistipes putredinis",
+      "value": 0.30998509687034276
+    },
+    {
+      "source": "Coprococcus catus",
+      "target": "Blautia obeum",
+      "value": 0.07451564828614009
+    },
+    {
+      "source": "Coprococcus comes",
+      "target": "Dorea longicatena",
+      "value": 0.13859910581222057
+    },
+    {
+      "source": "Coprococcus eutactus",
+      "target": "Eubacterium eligens",
+      "value": 0.04918032786885246
+    },
+    {
+      "source": "Corynebacterium amycolatum",
+      "target": "Finegoldia magna",
+      "value": 0.27421758569299554
+    },
+    {
+      "source": "Corynebacterium argentoratense",
+      "target": "Corynebacterium durum",
+      "value": 0.3114754098360656
+    },
+    {
+      "source": "Corynebacterium aurimucosum",
+      "target": "Corynebacterium amycolatum",
+      "value": 0.20119225037257824
+    },
+    {
+      "source": "Corynebacterium casei",
+      "target": "Bacteroides sp CAG 443",
+      "value": 0.39046199701937406
+    },
+    {
+      "source": "Corynebacterium durum",
+      "target": "Actinomyces oris",
+      "value": 0.21609538002980627
+    },
+    {
+      "source": "Corynebacterium pyruviciproducens",
+      "target": "Finegoldia magna",
+      "value": 0.15648286140089418
+    },
+    {
+      "source": "Corynebacterium variabile",
+      "target": "Firmicutes bacterium CAG 94",
+      "value": 0.13114754098360656
+    },
+    {
+      "source": "Criibacterium bergeronii",
+      "target": "Porphyromonas uenonis",
+      "value": 0.22503725782414308
+    },
+    {
+      "source": "Cronobacter sakazakii",
+      "target": "Enterobacter bugandensis",
+      "value": 0.2548435171385991
+    },
+    {
+      "source": "Cupriavidus metallidurans",
+      "target": "Cutibacterium acnes",
+      "value": 0.26229508196721313
+    },
+    {
+      "source": "Cupriavidus sp",
+      "target": "Slackia isoflavoniconvertens",
+      "value": 0.11177347242921014
+    },
+    {
+      "source": "Cutibacterium acnes",
+      "target": "Staphylococcus epidermidis",
+      "value": 0.13114754098360656
+    },
+    {
+      "source": "Cutibacterium avidum",
+      "target": "Streptococcus agalactiae",
+      "value": 0.2444113263785395
+    },
+    {
+      "source": "Denitrobacterium detoxificans",
+      "target": "Enterorhabdus caecimuris",
+      "value": 0.2786885245901639
+    },
+    {
+      "source": "Desulfovibrio fairfieldensis",
+      "target": "Massiliomicrobiota timonensis",
+      "value": 0.10134128166915052
+    },
+    {
+      "source": "Desulfovibrio piger",
+      "target": "Desulfovibrionaceae bacterium",
+      "value": 0.2533532041728763
+    },
+    {
+      "source": "Desulfovibrio sp An276",
+      "target": "Oscillibacter sp CAG 241",
+      "value": 0.17138599105812222
+    },
+    {
+      "source": "Desulfovibrionaceae bacterium",
+      "target": "Desulfovibrio piger",
+      "value": 0.16244411326378538
+    },
+    {
+      "source": "Dialister invisus",
+      "target": "Megamonas funiformis CAG 377",
+      "value": 0.13263785394932937
+    },
+    {
+      "source": "Dialister micraerophilus",
+      "target": "Peptoniphilus lacrimalis",
+      "value": 0.21907600596125187
+    },
+    {
+      "source": "Dialister pneumosintes",
+      "target": "Peptostreptococcus stomatis",
+      "value": 0.12071535022354694
+    },
+    {
+      "source": "Dialister sp CAG 357",
+      "target": "Olsenella scatoligenes",
+      "value": 0.11475409836065574
+    },
+    {
+      "source": "Dialister succinatiphilus",
+      "target": "Firmicutes bacterium CAG 534",
+      "value": 0.22652757078986588
+    },
+    {
+      "source": "Dielma fastidiosa",
+      "target": "Candidatus Methanomassiliicoccus intestinalis",
+      "value": 0.2503725782414307
+    },
+    {
+      "source": "Dorea formicigenerans",
+      "target": "Dorea longicatena",
+      "value": 0.13114754098360656
+    },
+    {
+      "source": "Dorea longicatena",
+      "target": "Coprococcus comes",
+      "value": 0.15350223546944858
+    },
+    {
+      "source": "Dorea sp CAG 317",
+      "target": "Clostridium scindens",
+      "value": 0.11624441132637854
+    },
+    {
+      "source": "Dorea sp D27",
+      "target": "Flavonifractor sp An100",
+      "value": 0.2727272727272727
+    },
+    {
+      "source": "Dysgonomonas gadei",
+      "target": "Proteus mirabilis",
+      "value": 0.23845007451564829
+    },
+    {
+      "source": "Dysgonomonas mossii",
+      "target": "Proteus mirabilis",
+      "value": 0.18181818181818182
+    },
+    {
+      "source": "Dysgonomonas sp 37 18",
+      "target": "Proteus mirabilis",
+      "value": 0.16691505216095381
+    },
+    {
+      "source": "Eggerthella lenta",
+      "target": "Gordonibacter pamelaeae",
+      "value": 0.61698956780924
+    },
+    {
+      "source": "Eggerthia catenaformis",
+      "target": "Eubacterium brachy",
+      "value": 0.11624441132637854
+    },
+    {
+      "source": "Eikenella corrodens",
+      "target": "Gemella morbillorum",
+      "value": 0.14008941877794337
+    },
+    {
+      "source": "Eisenbergiella massiliensis",
+      "target": "Sellimonas intestinalis",
+      "value": 0.16393442622950818
+    },
+    {
+      "source": "Eisenbergiella tayi",
+      "target": "Ruthenibacterium lactatiformans",
+      "value": 0.17734724292101342
+    },
+    {
+      "source": "Enhydrobacter aerosaccus",
+      "target": "Weissella confusa",
+      "value": 0.18032786885245902
+    },
+    {
+      "source": "Enorma massiliensis",
+      "target": "Gordonibacter pamelaeae",
+      "value": 0.12518628912071536
+    },
+    {
+      "source": "Entamoeba dispar",
+      "target": "Blastocystis sp subtype 1",
+      "value": 0.18777943368107303
+    },
+    {
+      "source": "Entamoeba histolytica",
+      "target": "Leuconostoc garlicum",
+      "value": 0.26825633383010433
+    },
+    {
+      "source": "Enterobacter bugandensis",
+      "target": "Weissella confusa",
+      "value": 0.21311475409836064
+    },
+    {
+      "source": "Enterobacter cloacae complex",
+      "target": "Klebsiella oxytoca",
+      "value": 0.15052160953800298
+    },
+    {
+      "source": "Enterobacter mori",
+      "target": "Enterobacter cloacae complex",
+      "value": 0.21162444113263784
+    },
+    {
+      "source": "Enterococcus asini",
+      "target": "Streptococcus mutans",
+      "value": 0.21609538002980627
+    },
+    {
+      "source": "Enterococcus avium",
+      "target": "Eggerthella lenta",
+      "value": 0.2697466467958271
+    },
+    {
+      "source": "Enterococcus casseliflavus",
+      "target": "Enterococcus avium",
+      "value": 0.22205663189269748
+    },
+    {
+      "source": "Enterococcus dispar",
+      "target": "Tyzzerella nexilis",
+      "value": 0.19821162444113263
+    },
+    {
+      "source": "Enterococcus durans",
+      "target": "Lactococcus lactis",
+      "value": 0.23397913561847988
+    },
+    {
+      "source": "Enterococcus faecalis",
+      "target": "Enterococcus faecium",
+      "value": 0.23695976154992549
+    },
+    {
+      "source": "Enterococcus faecium",
+      "target": "Enterococcus faecalis",
+      "value": 0.14754098360655737
+    },
+    {
+      "source": "Enterococcus gallinarum",
+      "target": "Enterococcus avium",
+      "value": 0.2667660208643815
+    },
+    {
+      "source": "Enterococcus gilvus",
+      "target": "Enterococcus durans",
+      "value": 0.22652757078986588
+    },
+    {
+      "source": "Enterococcus hirae",
+      "target": "Escherichia coli",
+      "value": 0.16840536512667661
+    },
+    {
+      "source": "Enterococcus italicus",
+      "target": "Lactococcus lactis",
+      "value": 0.2563338301043219
+    },
+    {
+      "source": "Enterococcus mundtii",
+      "target": "Leuconostoc lactis",
+      "value": 0.14307004470938897
+    },
+    {
+      "source": "Enterococcus raffinosus",
+      "target": "Enterococcus avium",
+      "value": 0.19672131147540983
+    },
+    {
+      "source": "Enterococcus thailandicus",
+      "target": "Pseudomonas fragi",
+      "value": 0.22652757078986588
+    },
+    {
+      "source": "Enterorhabdus caecimuris",
+      "target": "Asaccharobacter celatus",
+      "value": 0.18926974664679583
+    },
+    {
+      "source": "Erysipelatoclostridium ramosum",
+      "target": "Ruminococcus gnavus",
+      "value": 0.19225037257824143
+    },
+    {
+      "source": "Erysipelothrix larvae",
+      "target": "Roseburia hominis",
+      "value": 0.14008941877794337
+    },
+    {
+      "source": "Escherichia albertii",
+      "target": "Megamonas hypermegale",
+      "value": 0.15499254843517138
+    },
+    {
+      "source": "Escherichia coli",
+      "target": "Faecalibacterium prausnitzii",
+      "value": 0.08494783904619971
+    },
+    {
+      "source": "Escherichia fergusonii",
+      "target": "Weissella confusa",
+      "value": 0.17436661698956782
+    },
+    {
+      "source": "Escherichia marmotae",
+      "target": "Pseudomonas fragi",
+      "value": 0.13412816691505217
+    },
+    {
+      "source": "Eubacteriaceae bacterium CHKCI005",
+      "target": "Lachnoclostridium sp An138",
+      "value": 0.13263785394932937
+    },
+    {
+      "source": "Eubacterium brachy",
+      "target": "Gemella haemolysans",
+      "value": 0.17287630402384502
+    },
+    {
+      "source": "Eubacterium callanderi",
+      "target": "Eubacterium limosum",
+      "value": 0.13859910581222057
+    },
+    {
+      "source": "Eubacterium coprostanoligenes",
+      "target": "Prevotella sp AM42 24",
+      "value": 0.15946348733233978
+    },
+    {
+      "source": "Eubacterium dolichum CAG 375",
+      "target": "Absiella dolichum",
+      "value": 0.8643815201192251
+    },
+    {
+      "source": "Eubacterium eligens",
+      "target": "Lachnospira pectinoschiza",
+      "value": 0.07749627421758569
+    },
+    {
+      "source": "Eubacterium hallii",
+      "target": "Anaerostipes hadrus",
+      "value": 0.17883755588673622
+    },
+    {
+      "source": "Eubacterium infirmum",
+      "target": "Dialister pneumosintes",
+      "value": 0.15201192250372578
+    },
+    {
+      "source": "Eubacterium limosum",
+      "target": "Eubacterium callanderi",
+      "value": 0.19523099850968703
+    },
+    {
+      "source": "Eubacterium nodatum",
+      "target": "Parvimonas micra",
+      "value": 0.22354694485842028
+    },
+    {
+      "source": "Eubacterium ramulus",
+      "target": "Dorea longicatena",
+      "value": 0.09388971684053651
+    },
+    {
+      "source": "Eubacterium rectale",
+      "target": "Roseburia faecis",
+      "value": 0.046199701937406856
+    },
+    {
+      "source": "Eubacterium saphenum",
+      "target": "Eubacterium brachy",
+      "value": 0.21907600596125187
+    },
+    {
+      "source": "Eubacterium siraeum",
+      "target": "Ruminococcus bicirculans",
+      "value": 0.07153502235469449
+    },
+    {
+      "source": "Eubacterium sp An11",
+      "target": "Anaerostipes caccae",
+      "value": 0.26527570789865873
+    },
+    {
+      "source": "Eubacterium sp CAG 180",
+      "target": "Faecalibacterium prausnitzii",
+      "value": 0.013412816691505217
+    },
+    {
+      "source": "Eubacterium sp CAG 251",
+      "target": "Christensenella minuta",
+      "value": 0.07600596125186289
+    },
+    {
+      "source": "Eubacterium sp CAG 274",
+      "target": "Lachnospira pectinoschiza",
+      "value": 0.13412816691505217
+    },
+    {
+      "source": "Eubacterium sp CAG 38",
+      "target": "Lachnospiraceae bacterium oral taxon 096",
+      "value": 0.11624441132637854
+    },
+    {
+      "source": "Eubacterium sp CAG 786",
+      "target": "Bacteroides pectinophilus",
+      "value": 0.3055141579731744
+    },
+    {
+      "source": "Eubacterium sp OM08 24",
+      "target": "Klebsiella quasipneumoniae",
+      "value": 0.14157973174366617
+    },
+    {
+      "source": "Eubacterium sulci",
+      "target": "Mogibacterium diversum",
+      "value": 0.4187779433681073
+    },
+    {
+      "source": "Eubacterium ventriosum",
+      "target": "Roseburia inulinivorans",
+      "value": 0.03278688524590164
+    },
+    {
+      "source": "Facklamia hominis",
+      "target": "Actinomyces turicensis",
+      "value": 0.23248882265275708
+    },
+    {
+      "source": "Faecalibacterium prausnitzii",
+      "target": "Agathobaculum butyriciproducens",
+      "value": 0.046199701937406856
+    },
+    {
+      "source": "Faecalicatena orotica",
+      "target": "Blautia producta",
+      "value": 0.20864381520119224
+    },
+    {
+      "source": "Faecalicoccus pleomorphus",
+      "target": "Mitsuokella jalaludinii",
+      "value": 0.11624441132637854
+    },
+    {
+      "source": "Faecalitalea cylindroides",
+      "target": "Actinomyces sp HPA0247",
+      "value": 0.19225037257824143
+    },
+    {
+      "source": "Filifactor alocis",
+      "target": "Peptostreptococcus stomatis",
+      "value": 0.19821162444113263
+    },
+    {
+      "source": "Finegoldia magna",
+      "target": "Peptoniphilus harei",
+      "value": 0.18479880774962743
+    },
+    {
+      "source": "Firmicutes bacterium CAG 110",
+      "target": "Firmicutes bacterium CAG 95",
+      "value": 0.07004470938897168
+    },
+    {
+      "source": "Firmicutes bacterium CAG 145",
+      "target": "Christensenella minuta",
+      "value": 0.18181818181818182
+    },
+    {
+      "source": "Firmicutes bacterium CAG 170",
+      "target": "Fretibacterium fastidiosum",
+      "value": 0.23099850968703428
+    },
+    {
+      "source": "Firmicutes bacterium CAG 238",
+      "target": "Clostridium sp CAG 413",
+      "value": 0.17585692995529062
+    },
+    {
+      "source": "Firmicutes bacterium CAG 424",
+      "target": "Blautia sp CAG 257",
+      "value": 0.4202682563338301
+    },
+    {
+      "source": "Firmicutes bacterium CAG 534",
+      "target": "Firmicutes bacterium CAG 238",
+      "value": 0.293591654247392
+    },
+    {
+      "source": "Firmicutes bacterium CAG 555",
+      "target": "Firmicutes bacterium CAG 238",
+      "value": 0.3561847988077496
+    },
+    {
+      "source": "Firmicutes bacterium CAG 646",
+      "target": "Blautia sp CAG 257",
+      "value": 0.2399403874813711
+    },
+    {
+      "source": "Firmicutes bacterium CAG 791",
+      "target": "Treponema succinifaciens",
+      "value": 0.10730253353204174
+    },
+    {
+      "source": "Firmicutes bacterium CAG 83",
+      "target": "Eubacterium sp CAG 180",
+      "value": 0.10432190760059612
+    },
+    {
+      "source": "Firmicutes bacterium CAG 94",
+      "target": "Flavonifractor sp An10",
+      "value": 0.13710879284649777
+    },
+    {
+      "source": "Firmicutes bacterium CAG 95",
+      "target": "Firmicutes bacterium CAG 170",
+      "value": 0.17585692995529062
+    },
+    {
+      "source": "Flavonifractor plautii",
+      "target": "Ruthenibacterium lactatiformans",
+      "value": 0.08941877794336811
+    },
+    {
+      "source": "Flavonifractor sp An10",
+      "target": "Pseudoflavonifractor sp An184",
+      "value": 0.34575260804769004
+    },
+    {
+      "source": "Flavonifractor sp An100",
+      "target": "Pseudoflavonifractor capillosus",
+      "value": 0.12220566318926974
+    },
+    {
+      "source": "Flavonifractor sp An306",
+      "target": "Flavonifractor sp An100",
+      "value": 0.15499254843517138
+    },
+    {
+      "source": "Franconibacter helveticus",
+      "target": "Klebsiella quasipneumoniae",
+      "value": 0.3293591654247392
+    },
+    {
+      "source": "Fretibacterium fastidiosum",
+      "target": "Pseudomonas aeruginosa group",
+      "value": 0.13263785394932937
+    },
+    {
+      "source": "Fusicatenibacter saccharivorans",
+      "target": "Blautia wexlerae",
+      "value": 0.07749627421758569
+    },
+    {
+      "source": "Fusobacterium equinum",
+      "target": "Fusobacterium gonidiaformans",
+      "value": 0.4485842026825633
+    },
+    {
+      "source": "Fusobacterium gonidiaformans",
+      "target": "Bacteroides nordii",
+      "value": 0.12071535022354694
+    },
+    {
+      "source": "Fusobacterium mortiferum",
+      "target": "Fusobacterium varium",
+      "value": 0.23546944858420268
+    },
+    {
+      "source": "Fusobacterium naviforme",
+      "target": "Porphyromonas asaccharolytica",
+      "value": 0.17436661698956782
+    },
+    {
+      "source": "Fusobacterium necrophorum",
+      "target": "Peptostreptococcus anaerobius",
+      "value": 0.17734724292101342
+    },
+    {
+      "source": "Fusobacterium nucleatum",
+      "target": "Parvimonas micra",
+      "value": 0.22354694485842028
+    },
+    {
+      "source": "Fusobacterium periodonticum",
+      "target": "Megasphaera sp MJR8396C",
+      "value": 0.17287630402384502
+    },
+    {
+      "source": "Fusobacterium sp CAG 439",
+      "target": "Bacteroides cellulosilyticus",
+      "value": 0.14605067064083457
+    },
+    {
+      "source": "Fusobacterium sp oral taxon 370",
+      "target": "Fusobacterium periodonticum",
+      "value": 0.353204172876304
+    },
+    {
+      "source": "Fusobacterium ulcerans",
+      "target": "Ruminococcus gnavus",
+      "value": 0.13859910581222057
+    },
+    {
+      "source": "Fusobacterium varium",
+      "target": "Streptococcus pasteurianus",
+      "value": 0.19523099850968703
+    },
+    {
+      "source": "Gardnerella vaginalis",
+      "target": "Prevotella bivia",
+      "value": 0.2697466467958271
+    },
+    {
+      "source": "Gemella asaccharolytica",
+      "target": "Campylobacter ureolyticus",
+      "value": 0.22801788375558868
+    },
+    {
+      "source": "Gemella haemolysans",
+      "target": "Streptococcus mitis",
+      "value": 0.37853949329359166
+    },
+    {
+      "source": "Gemella morbillorum",
+      "target": "Peptostreptococcus stomatis",
+      "value": 0.32786885245901637
+    },
+    {
+      "source": "Gemella sanguinis",
+      "target": "Gemella haemolysans",
+      "value": 0.15946348733233978
+    },
+    {
+      "source": "Gemmiger formicilis",
+      "target": "Faecalibacterium prausnitzii",
+      "value": 0.08196721311475409
+    },
+    {
+      "source": "Gemmiger sp An120",
+      "target": "Anaerofilum sp An201",
+      "value": 0.23397913561847988
+    },
+    {
+      "source": "Gemmiger sp An194",
+      "target": "Streptococcus oralis",
+      "value": 0.12220566318926974
+    },
+    {
+      "source": "Gemmiger sp An50",
+      "target": "Anaerotignum lactatifermentans",
+      "value": 0.4992548435171386
+    },
+    {
+      "source": "Gemmiger sp An87",
+      "target": "Clostridium asparagiforme",
+      "value": 0.10432190760059612
+    },
+    {
+      "source": "Gordonibacter pamelaeae",
+      "target": "Eggerthella lenta",
+      "value": 0.27719821162444114
+    },
+    {
+      "source": "Granulicatella adiacens",
+      "target": "Actinomyces turicensis",
+      "value": 0.14008941877794337
+    },
+    {
+      "source": "Haemophilus haemolyticus",
+      "target": "Gemella haemolysans",
+      "value": 0.16691505216095381
+    },
+    {
+      "source": "Haemophilus parahaemolyticus",
+      "target": "Haemophilus paraphrohaemolyticus",
+      "value": 0.22652757078986588
+    },
+    {
+      "source": "Haemophilus parainfluenzae",
+      "target": "Haemophilus sp HMSC71H05",
+      "value": 0.18330849478390462
+    },
+    {
+      "source": "Haemophilus paraphrohaemolyticus",
+      "target": "Haemophilus sputorum",
+      "value": 0.20864381520119224
+    },
+    {
+      "source": "Haemophilus pittmaniae",
+      "target": "Lactococcus petauri",
+      "value": 0.12667660208643816
+    },
+    {
+      "source": "Haemophilus sp HMSC71H05",
+      "target": "Haemophilus parainfluenzae",
+      "value": 0.496274217585693
+    },
+    {
+      "source": "Haemophilus sputorum",
+      "target": "Haemophilus parainfluenzae",
+      "value": 0.28763040238450077
+    },
+    {
+      "source": "Hafnia alvei",
+      "target": "Enterococcus durans",
+      "value": 0.16840536512667661
+    },
+    {
+      "source": "Hafnia paralvei",
+      "target": "Enterobacter cloacae complex",
+      "value": 0.11475409836065574
+    },
+    {
+      "source": "Harryflintia acetispora",
+      "target": "Clostridium bolteae",
+      "value": 0.16691505216095381
+    },
+    {
+      "source": "Helicobacter cinaedi",
+      "target": "Prevotella stercorea",
+      "value": 0.23099850968703428
+    },
+    {
+      "source": "Helicobacter fennelliae",
+      "target": "Prevotella sp AM42 24",
+      "value": 0.17287630402384502
+    },
+    {
+      "source": "Helicobacter pullorum",
+      "target": "Lactobacillus plantarum",
+      "value": 0.23248882265275708
+    },
+    {
+      "source": "Holdemanella biformis",
+      "target": "Dorea formicigenerans",
+      "value": 0.03427719821162444
+    },
+    {
+      "source": "Holdemania filiformis",
+      "target": "Clostridium aldenense",
+      "value": 0.10730253353204174
+    },
+    {
+      "source": "Hungatella hathewayi",
+      "target": "Clostridium symbiosum",
+      "value": 0.22652757078986588
+    },
+    {
+      "source": "Hydrogenibacillus schlegelii",
+      "target": "Fretibacterium fastidiosum",
+      "value": 0.33681073025335323
+    },
+    {
+      "source": "Intestinibacter bartlettii",
+      "target": "Turicibacter sanguinis",
+      "value": 0.16542473919523099
+    },
+    {
+      "source": "Intestinimonas butyriciproducens",
+      "target": "Eisenbergiella massiliensis",
+      "value": 0.11922503725782414
+    },
+    {
+      "source": "Jonquetella anthropi",
+      "target": "Lawsonella clevelandensis",
+      "value": 0.20417287630402384
+    },
+    {
+      "source": "Klebsiella aerogenes",
+      "target": "Streptococcus mitis",
+      "value": 0.17883755588673622
+    },
+    {
+      "source": "Klebsiella michiganensis",
+      "target": "Klebsiella oxytoca",
+      "value": 0.45901639344262296
+    },
+    {
+      "source": "Klebsiella oxytoca",
+      "target": "Scardovia wiggsiae",
+      "value": 0.21013412816691504
+    },
+    {
+      "source": "Klebsiella pneumoniae",
+      "target": "Klebsiella quasipneumoniae",
+      "value": 0.7555886736214605
+    },
+    {
+      "source": "Klebsiella quasipneumoniae",
+      "target": "Klebsiella pneumoniae",
+      "value": 0.6616989567809239
+    },
+    {
+      "source": "Klebsiella variicola",
+      "target": "Klebsiella pneumoniae",
+      "value": 0.8286140089418778
+    },
+    {
+      "source": "Klebsiella variicola CAG 634",
+      "target": "Klebsiella quasipneumoniae",
+      "value": 0.28017883755588674
+    },
+    {
+      "source": "Kluyvera ascorbata",
+      "target": "Klebsiella aerogenes",
+      "value": 0.11624441132637854
+    },
+    {
+      "source": "Kluyvera cryocrescens",
+      "target": "Klebsiella michiganensis",
+      "value": 0.21907600596125187
+    },
+    {
+      "source": "Kluyvera georgiana",
+      "target": "Kluyvera ascorbata",
+      "value": 0.14456035767511177
+    },
+    {
+      "source": "Kosakonia cowanii",
+      "target": "Oscillibacter sp CAG 241",
+      "value": 0.16095380029806258
+    },
+    {
+      "source": "Lachnoanaerobaculum saburreum",
+      "target": "Fusobacterium periodonticum",
+      "value": 0.10283159463487332
+    },
+    {
+      "source": "Lachnoclostridium sp An118",
+      "target": "Pseudoflavonifractor sp An184",
+      "value": 0.21311475409836064
+    },
+    {
+      "source": "Lachnoclostridium sp An131",
+      "target": "Lachnoclostridium sp An138",
+      "value": 0.39046199701937406
+    },
+    {
+      "source": "Lachnoclostridium sp An138",
+      "target": "Lachnoclostridium sp An131",
+      "value": 0.2488822652757079
+    },
+    {
+      "source": "Lachnoclostridium sp An14",
+      "target": "Massiliomicrobiota timonensis",
+      "value": 0.22354694485842028
+    },
+    {
+      "source": "Lachnoclostridium sp An181",
+      "target": "Lachnoclostridium sp An14",
+      "value": 0.21311475409836064
+    },
+    {
+      "source": "Lachnospira pectinoschiza",
+      "target": "Lactobacillus rogosae",
+      "value": 0.23845007451564829
+    },
+    {
+      "source": "Lachnospiraceae bacterium 2 1 46FAA",
+      "target": "Blautia hansenii",
+      "value": 0.2459016393442623
+    },
+    {
+      "source": "Lachnospiraceae bacterium oral taxon 096",
+      "target": "Actinomyces sp S6 Spd3",
+      "value": 0.11773472429210134
+    },
+    {
+      "source": "Lactobacillus acidophilus",
+      "target": "Bifidobacterium animalis",
+      "value": 0.293591654247392
+    },
+    {
+      "source": "Lactobacillus agilis",
+      "target": "Lactobacillus reuteri",
+      "value": 0.2444113263785395
+    },
+    {
+      "source": "Lactobacillus algidus",
+      "target": "Romboutsia ilealis",
+      "value": 0.36065573770491804
+    },
+    {
+      "source": "Lactobacillus amylovorus",
+      "target": "Bacteroides faecis",
+      "value": 0.15648286140089418
+    },
+    {
+      "source": "Lactobacillus animalis",
+      "target": "Lactobacillus vaginalis",
+      "value": 0.2459016393442623
+    },
+    {
+      "source": "Lactobacillus brevis",
+      "target": "Lactobacillus plantarum",
+      "value": 0.4038748137108793
+    },
+    {
+      "source": "Lactobacillus crispatus",
+      "target": "Lactobacillus paragasseri",
+      "value": 0.22503725782414308
+    },
+    {
+      "source": "Lactobacillus curvatus",
+      "target": "Rothia dentocariosa",
+      "value": 0.11922503725782414
+    },
+    {
+      "source": "Lactobacillus delbrueckii",
+      "target": "Streptococcus thermophilus",
+      "value": 0.4157973174366617
+    },
+    {
+      "source": "Lactobacillus fermentum",
+      "target": "Streptococcus vestibularis",
+      "value": 0.19225037257824143
+    },
+    {
+      "source": "Lactobacillus gasseri",
+      "target": "Lactobacillus paragasseri",
+      "value": 0.39046199701937406
+    },
+    {
+      "source": "Lactobacillus gastricus",
+      "target": "Lactobacillus gasseri",
+      "value": 0.12816691505216096
+    },
+    {
+      "source": "Lactobacillus helveticus",
+      "target": "Escherichia coli",
+      "value": 0.23099850968703428
+    },
+    {
+      "source": "Lactobacillus iners",
+      "target": "Lactobacillus gasseri",
+      "value": 0.21013412816691504
+    },
+    {
+      "source": "Lactobacillus johnsonii",
+      "target": "Clostridium sp D5",
+      "value": 0.23099850968703428
+    },
+    {
+      "source": "Lactobacillus kalixensis",
+      "target": "Lactobacillus delbrueckii",
+      "value": 0.12220566318926974
+    },
+    {
+      "source": "Lactobacillus mucosae",
+      "target": "Lactobacillus amylovorus",
+      "value": 0.13412816691505217
+    },
+    {
+      "source": "Lactobacillus oris",
+      "target": "Lactobacillus paragasseri",
+      "value": 0.3263785394932936
+    },
+    {
+      "source": "Lactobacillus parabuchneri",
+      "target": "Lactobacillus plantarum",
+      "value": 0.2459016393442623
+    },
+    {
+      "source": "Lactobacillus paragasseri",
+      "target": "Lactobacillus gasseri",
+      "value": 0.21460506706408347
+    },
+    {
+      "source": "Lactobacillus pentosus",
+      "target": "Pediococcus acidilactici",
+      "value": 0.23845007451564829
+    },
+    {
+      "source": "Lactobacillus plantarum",
+      "target": "Pseudoflavonifractor capillosus",
+      "value": 0.19523099850968703
+    },
+    {
+      "source": "Lactobacillus reuteri",
+      "target": "Lactobacillus gasseri",
+      "value": 0.16244411326378538
+    },
+    {
+      "source": "Lactobacillus rhamnosus",
+      "target": "Bifidobacterium dentium",
+      "value": 0.18032786885245902
+    },
+    {
+      "source": "Lactobacillus rogosae",
+      "target": "Lachnospira pectinoschiza",
+      "value": 0.4858420268256334
+    },
+    {
+      "source": "Lactobacillus ruminis",
+      "target": "Lactobacillus mucosae",
+      "value": 0.14008941877794337
+    },
+    {
+      "source": "Lactobacillus saerimneri",
+      "target": "Lactobacillus amylovorus",
+      "value": 0.23397913561847988
+    },
+    {
+      "source": "Lactobacillus sakei",
+      "target": "Lactobacillus curvatus",
+      "value": 0.13710879284649777
+    },
+    {
+      "source": "Lactobacillus salivarius",
+      "target": "Streptococcus vestibularis",
+      "value": 0.3204172876304024
+    },
+    {
+      "source": "Lactobacillus sanfranciscensis",
+      "target": "Saccharomyces cerevisiae",
+      "value": 0.27421758569299554
+    },
+    {
+      "source": "Lactobacillus vaginalis",
+      "target": "Lactobacillus gasseri",
+      "value": 0.3114754098360656
+    },
+    {
+      "source": "Lactobacillus versmoldensis",
+      "target": "Leuconostoc mesenteroides",
+      "value": 0.2503725782414307
+    },
+    {
+      "source": "Lactococcus chungangensis",
+      "target": "Lactococcus raffinolactis",
+      "value": 0.36661698956780925
+    },
+    {
+      "source": "Lactococcus garvieae",
+      "target": "Lactococcus petauri",
+      "value": 0.5022354694485842
+    },
+    {
+      "source": "Lactococcus lactis",
+      "target": "Lactobacillus plantarum",
+      "value": 0.14754098360655737
+    },
+    {
+      "source": "Lactococcus petauri",
+      "target": "Lactococcus garvieae",
+      "value": 0.5409836065573771
+    },
+    {
+      "source": "Lactococcus piscium",
+      "target": "Bifidobacterium animalis",
+      "value": 0.18777943368107303
+    },
+    {
+      "source": "Lactococcus raffinolactis",
+      "target": "Streptococcus infantarius",
+      "value": 0.21907600596125187
+    },
+    {
+      "source": "Lactonifactor longoviformis",
+      "target": "Blautia coccoides",
+      "value": 0.2563338301043219
+    },
+    {
+      "source": "Lautropia mirabilis",
+      "target": "Streptococcus sp A12",
+      "value": 0.3263785394932936
+    },
+    {
+      "source": "Lawsonella clevelandensis",
+      "target": "Porphyromonas asaccharolytica",
+      "value": 0.14008941877794337
+    },
+    {
+      "source": "Lawsonibacter asaccharolyticus",
+      "target": "Anaerotignum lactatifermentans",
+      "value": 0.2846497764530551
+    },
+    {
+      "source": "Leclercia adecarboxylata",
+      "target": "Enterobacter cloacae complex",
+      "value": 0.5678092399403875
+    },
+    {
+      "source": "Leuconostoc carnosum",
+      "target": "Lactobacillus sakei",
+      "value": 0.22205663189269748
+    },
+    {
+      "source": "Leuconostoc citreum",
+      "target": "Streptococcus infantarius",
+      "value": 0.21907600596125187
+    },
+    {
+      "source": "Leuconostoc garlicum",
+      "target": "Leuconostoc lactis",
+      "value": 0.4143070044709389
+    },
+    {
+      "source": "Leuconostoc gelidum",
+      "target": "Hafnia paralvei",
+      "value": 0.09985096870342772
+    },
+    {
+      "source": "Leuconostoc lactis",
+      "target": "Enterococcus hirae",
+      "value": 0.12816691505216096
+    },
+    {
+      "source": "Leuconostoc mesenteroides",
+      "target": "Lactococcus lactis",
+      "value": 0.15946348733233978
+    },
+    {
+      "source": "Leuconostoc pseudomesenteroides",
+      "target": "Leuconostoc mesenteroides",
+      "value": 0.46497764530551416
+    },
+    {
+      "source": "Limnochorda pilosa",
+      "target": "Fretibacterium fastidiosum",
+      "value": 0.3740685543964232
+    },
+    {
+      "source": "Mageeibacillus indolicus",
+      "target": "Gardnerella vaginalis",
+      "value": 0.19672131147540983
+    },
+    {
+      "source": "Marvinbryantia formatexigens",
+      "target": "Ruminococcaceae bacterium D16",
+      "value": 0.11773472429210134
+    },
+    {
+      "source": "Massiliomicrobiota timonensis",
+      "target": "Blautia coccoides",
+      "value": 0.13114754098360656
+    },
+    {
+      "source": "Megamonas funiformis",
+      "target": "Megamonas hypermegale",
+      "value": 1.0
+    },
+    {
+      "source": "Megamonas funiformis CAG 377",
+      "target": "Megamonas hypermegale",
+      "value": 0.7794336810730254
+    },
+    {
+      "source": "Megamonas hypermegale",
+      "target": "Megamonas funiformis",
+      "value": 0.38748137108792846
+    },
+    {
+      "source": "Megamonas rupellensis",
+      "target": "Megamonas hypermegale",
+      "value": 0.6020864381520119
+    },
+    {
+      "source": "Megasphaera elsdenii",
+      "target": "Lactobacillus ruminis",
+      "value": 0.3174366616989568
+    },
+    {
+      "source": "Megasphaera hexanoica",
+      "target": "Mitsuokella multacida",
+      "value": 0.22801788375558868
+    },
+    {
+      "source": "Megasphaera micronuciformis",
+      "target": "Veillonella parvula",
+      "value": 0.28315946348733234
+    },
+    {
+      "source": "Megasphaera sp BV3C16 1",
+      "target": "Lachnoclostridium sp An118",
+      "value": 0.16095380029806258
+    },
+    {
+      "source": "Megasphaera sp DISK 18",
+      "target": "Megasphaera sp MJR8396C",
+      "value": 0.3442622950819672
+    },
+    {
+      "source": "Megasphaera sp MJR8396C",
+      "target": "Acidaminococcus intestini",
+      "value": 0.38450074515648286
+    },
+    {
+      "source": "Megasphaera stantonii",
+      "target": "Butyricimonas virosa",
+      "value": 0.12965722801788376
+    },
+    {
+      "source": "Methanobrevibacter smithii",
+      "target": "Mogibacterium diversum",
+      "value": 0.09239940387481371
+    },
+    {
+      "source": "Methanosphaera cuniculi",
+      "target": "Enterococcus casseliflavus",
+      "value": 0.17734724292101342
+    },
+    {
+      "source": "Methanosphaera sp SHI1033",
+      "target": "Butyrivibrio sp CAG 318",
+      "value": 0.18330849478390462
+    },
+    {
+      "source": "Methanosphaera stadtmanae",
+      "target": "Methanobrevibacter smithii",
+      "value": 0.38748137108792846
+    },
+    {
+      "source": "Microvirgula aerodenitrificans",
+      "target": "Weissella confusa",
+      "value": 0.18330849478390462
+    },
+    {
+      "source": "Mitsuokella jalaludinii",
+      "target": "Mitsuokella multacida",
+      "value": 0.4456035767511177
+    },
+    {
+      "source": "Mitsuokella multacida",
+      "target": "Megasphaera elsdenii",
+      "value": 0.338301043219076
+    },
+    {
+      "source": "Mobiluncus curtisii",
+      "target": "Lactobacillus iners",
+      "value": 0.12518628912071536
+    },
+    {
+      "source": "Mogibacterium diversum",
+      "target": "Eubacterium sulci",
+      "value": 0.26825633383010433
+    },
+    {
+      "source": "Mogibacterium pumilum",
+      "target": "Mogibacterium diversum",
+      "value": 0.2995529061102832
+    },
+    {
+      "source": "Mogibacterium timidum",
+      "target": "Gemella morbillorum",
+      "value": 0.21311475409836064
+    },
+    {
+      "source": "Monoglobus pectinilyticus",
+      "target": "Enterorhabdus caecimuris",
+      "value": 0.10134128166915052
+    },
+    {
+      "source": "Moraxella osloensis",
+      "target": "Raoultella planticola",
+      "value": 0.16393442622950818
+    },
+    {
+      "source": "Morganella morganii",
+      "target": "Pseudomonas aeruginosa group",
+      "value": 0.18032786885245902
+    },
+    {
+      "source": "Muribaculum intestinale",
+      "target": "Clostridium sp CAG 167",
+      "value": 0.13263785394932937
+    },
+    {
+      "source": "Murimonas intestini",
+      "target": "Clostridium scindens",
+      "value": 0.13859910581222057
+    },
+    {
+      "source": "Negativicoccus succinicivorans",
+      "target": "Finegoldia magna",
+      "value": 0.13263785394932937
+    },
+    {
+      "source": "Neisseria flavescens",
+      "target": "Campylobacter concisus",
+      "value": 0.12518628912071536
+    },
+    {
+      "source": "Neisseria mucosa",
+      "target": "Neisseria flavescens",
+      "value": 0.2965722801788376
+    },
+    {
+      "source": "Neisseria sicca",
+      "target": "Neisseria flavescens",
+      "value": 0.22652757078986588
+    },
+    {
+      "source": "Neisseria subflava",
+      "target": "Neisseria flavescens",
+      "value": 0.5678092399403875
+    },
+    {
+      "source": "Odoribacter laneus",
+      "target": "Ruminococcaceae bacterium D5",
+      "value": 0.19076005961251863
+    },
+    {
+      "source": "Odoribacter splanchnicus",
+      "target": "Alistipes putredinis",
+      "value": 0.08792846497764531
+    },
+    {
+      "source": "Olsenella scatoligenes",
+      "target": "Lactobacillus ruminis",
+      "value": 0.17585692995529062
+    },
+    {
+      "source": "Olsenella uli",
+      "target": "Slackia exigua",
+      "value": 0.17138599105812222
+    },
+    {
+      "source": "Oribacterium parvum",
+      "target": "Oribacterium sinus",
+      "value": 0.20566318926974664
+    },
+    {
+      "source": "Oribacterium sinus",
+      "target": "Streptococcus infantis",
+      "value": 0.20715350223546944
+    },
+    {
+      "source": "Oscillibacter sp 57 20",
+      "target": "Alistipes shahii",
+      "value": 0.14307004470938897
+    },
+    {
+      "source": "Oscillibacter sp CAG 241",
+      "target": "Firmicutes bacterium CAG 170",
+      "value": 0.06259314456035768
+    },
+    {
+      "source": "Oscillibacter sp PC13",
+      "target": "Oscillibacter sp 57 20",
+      "value": 0.07004470938897168
+    },
+    {
+      "source": "Oxalobacter formigenes",
+      "target": "Desulfovibrionaceae bacterium",
+      "value": 0.22354694485842028
+    },
+    {
+      "source": "Paeniclostridium sordellii",
+      "target": "Clostridium perfringens",
+      "value": 0.26527570789865873
+    },
+    {
+      "source": "Parabacteroides chinchillae",
+      "target": "Bacteroides sp OM05 12",
+      "value": 0.13561847988077497
+    },
+    {
+      "source": "Parabacteroides distasonis",
+      "target": "Clostridium lavalense",
+      "value": 0.05365126676602087
+    },
+    {
+      "source": "Parabacteroides goldsteinii",
+      "target": "Candidatus Methanomassiliicoccus intestinalis",
+      "value": 0.2906110283159464
+    },
+    {
+      "source": "Parabacteroides gordonii",
+      "target": "Cloacibacillus porcorum",
+      "value": 0.10581222056631892
+    },
+    {
+      "source": "Parabacteroides johnsonii",
+      "target": "Clostridium methylpentosum",
+      "value": 0.07451564828614009
+    },
+    {
+      "source": "Parabacteroides merdae",
+      "target": "Clostridium lavalense",
+      "value": 0.22354694485842028
+    },
+    {
+      "source": "Parabacteroides sp 426 9",
+      "target": "Bacteroides sp OM05 12",
+      "value": 0.13561847988077497
+    },
+    {
+      "source": "Parabacteroides sp CAG 409",
+      "target": "Candidatus Gastranaerophilales bacterium",
+      "value": 0.20417287630402384
+    },
+    {
+      "source": "Paraclostridium bifermentans",
+      "target": "Clostridium perfringens",
+      "value": 0.20268256333830104
+    },
+    {
+      "source": "Paraprevotella clara",
+      "target": "Paraprevotella xylaniphila",
+      "value": 0.5707898658718331
+    },
+    {
+      "source": "Paraprevotella xylaniphila",
+      "target": "Paraprevotella clara",
+      "value": 0.14754098360655737
+    },
+    {
+      "source": "Parascardovia denticolens",
+      "target": "Propionibacterium acidifaciens",
+      "value": 0.2816691505216095
+    },
+    {
+      "source": "Parasutterella excrementihominis",
+      "target": "Proteobacteria bacterium CAG 139",
+      "value": 0.4783904619970194
+    },
+    {
+      "source": "Parvimonas micra",
+      "target": "Gemella morbillorum",
+      "value": 0.3293591654247392
+    },
+    {
+      "source": "Parvimonas sp KA00067",
+      "target": "Actinomyces turicensis",
+      "value": 0.18777943368107303
+    },
+    {
+      "source": "Parvimonas sp oral taxon 110",
+      "target": "Peptostreptococcus stomatis",
+      "value": 0.2444113263785395
+    },
+    {
+      "source": "Parvimonas sp oral taxon 393",
+      "target": "Gemella morbillorum",
+      "value": 0.18926974664679583
+    },
+    {
+      "source": "Pediococcus acidilactici",
+      "target": "Pediococcus pentosaceus",
+      "value": 0.13412816691505217
+    },
+    {
+      "source": "Pediococcus pentosaceus",
+      "target": "Lactobacillus plantarum",
+      "value": 0.17287630402384502
+    },
+    {
+      "source": "Pediococcus sp",
+      "target": "Firmicutes bacterium CAG 791",
+      "value": 0.33084947839046197
+    },
+    {
+      "source": "Peptococcus niger",
+      "target": "Butyricimonas virosa",
+      "value": 0.13710879284649777
+    },
+    {
+      "source": "Peptoniphilus coxii",
+      "target": "Peptoniphilus harei",
+      "value": 0.22503725782414308
+    },
+    {
+      "source": "Peptoniphilus duerdenii",
+      "target": "Campylobacter ureolyticus",
+      "value": 0.19225037257824143
+    },
+    {
+      "source": "Peptoniphilus harei",
+      "target": "Anaerococcus vaginalis",
+      "value": 0.27123695976154993
+    },
+    {
+      "source": "Peptoniphilus lacrimalis",
+      "target": "Finegoldia magna",
+      "value": 0.17585692995529062
+    },
+    {
+      "source": "Peptoniphilus sp BV3C26",
+      "target": "Lawsonella clevelandensis",
+      "value": 0.15946348733233978
+    },
+    {
+      "source": "Peptoniphilus sp HMSC062D09",
+      "target": "Finegoldia magna",
+      "value": 0.16393442622950818
+    },
+    {
+      "source": "Peptostreptococcus anaerobius",
+      "target": "Solobacterium moorei",
+      "value": 0.13859910581222057
+    },
+    {
+      "source": "Peptostreptococcus sp MV1",
+      "target": "Peptostreptococcus anaerobius",
+      "value": 0.19523099850968703
+    },
+    {
+      "source": "Peptostreptococcus stomatis",
+      "target": "Gemella morbillorum",
+      "value": 0.28614008941877794
+    },
+    {
+      "source": "Phascolarctobacterium faecium",
+      "target": "Erysipelothrix larvae",
+      "value": 0.06110283159463487
+    },
+    {
+      "source": "Phascolarctobacterium sp CAG 266",
+      "target": "Desulfovibrionaceae bacterium",
+      "value": 0.11773472429210134
+    },
+    {
+      "source": "Phascolarctobacterium succinatutens",
+      "target": "Prevotella copri",
+      "value": 0.04918032786885246
+    },
+    {
+      "source": "Plesiomonas shigelloides",
+      "target": "Leuconostoc citreum",
+      "value": 0.15946348733233978
+    },
+    {
+      "source": "Porphyromonas asaccharolytica",
+      "target": "Porphyromonas uenonis",
+      "value": 0.31296572280178836
+    },
+    {
+      "source": "Porphyromonas endodontalis",
+      "target": "Porphyromonas uenonis",
+      "value": 0.22801788375558868
+    },
+    {
+      "source": "Porphyromonas gingivalis",
+      "target": "Lactobacillus delbrueckii",
+      "value": 0.18330849478390462
+    },
+    {
+      "source": "Porphyromonas somerae",
+      "target": "Campylobacter concisus",
+      "value": 0.15499254843517138
+    },
+    {
+      "source": "Porphyromonas sp HMSC065F10",
+      "target": "Varibaculum cambriense",
+      "value": 0.19523099850968703
+    },
+    {
+      "source": "Porphyromonas uenonis",
+      "target": "Porphyromonas asaccharolytica",
+      "value": 0.21460506706408347
+    },
+    {
+      "source": "Prevotella amnii",
+      "target": "Sneathia amnii",
+      "value": 0.18628912071535023
+    },
+    {
+      "source": "Prevotella bergensis",
+      "target": "Dialister pneumosintes",
+      "value": 0.22503725782414308
+    },
+    {
+      "source": "Prevotella bivia",
+      "target": "Finegoldia magna",
+      "value": 0.21013412816691504
+    },
+    {
+      "source": "Prevotella buccae",
+      "target": "Megasphaera micronuciformis",
+      "value": 0.31594634873323396
+    },
+    {
+      "source": "Prevotella buccalis",
+      "target": "Finegoldia magna",
+      "value": 0.14605067064083457
+    },
+    {
+      "source": "Prevotella colorans",
+      "target": "Prevotella sp S7 1 8",
+      "value": 0.23845007451564829
+    },
+    {
+      "source": "Prevotella copri",
+      "target": "Bacteroides uniformis",
+      "value": 0.11773472429210134
+    },
+    {
+      "source": "Prevotella corporis",
+      "target": "Prevotella timonensis",
+      "value": 0.17585692995529062
+    },
+    {
+      "source": "Prevotella denticola",
+      "target": "Dialister pneumosintes",
+      "value": 0.35767511177347244
+    },
+    {
+      "source": "Prevotella disiens",
+      "target": "Peptoniphilus lacrimalis",
+      "value": 0.15052160953800298
+    },
+    {
+      "source": "Prevotella histicola",
+      "target": "Prevotella melaninogenica",
+      "value": 0.16095380029806258
+    },
+    {
+      "source": "Prevotella intermedia",
+      "target": "Peptostreptococcus stomatis",
+      "value": 0.368107302533532
+    },
+    {
+      "source": "Prevotella jejuni",
+      "target": "Prevotella melaninogenica",
+      "value": 0.2518628912071535
+    },
+    {
+      "source": "Prevotella melaninogenica",
+      "target": "Lactobacillus gasseri",
+      "value": 0.12071535022354694
+    },
+    {
+      "source": "Prevotella nigrescens",
+      "target": "Parvimonas micra",
+      "value": 0.23845007451564829
+    },
+    {
+      "source": "Prevotella oralis",
+      "target": "Prevotella buccae",
+      "value": 0.21907600596125187
+    },
+    {
+      "source": "Prevotella oris",
+      "target": "Dialister pneumosintes",
+      "value": 0.20417287630402384
+    },
+    {
+      "source": "Prevotella pallens",
+      "target": "Prevotella melaninogenica",
+      "value": 0.22056631892697467
+    },
+    {
+      "source": "Prevotella salivae",
+      "target": "Prevotella melaninogenica",
+      "value": 0.17138599105812222
+    },
+    {
+      "source": "Prevotella sp 885",
+      "target": "Bacteroides sp CAG 530",
+      "value": 0.16989567809239942
+    },
+    {
+      "source": "Prevotella sp AM42 24",
+      "target": "Prevotella copri",
+      "value": 0.14008941877794337
+    },
+    {
+      "source": "Prevotella sp CAG 1031",
+      "target": "Firmicutes bacterium CAG 110",
+      "value": 0.19672131147540983
+    },
+    {
+      "source": "Prevotella sp CAG 1058",
+      "target": "Bacteroides sp CAG 462",
+      "value": 0.18032786885245902
+    },
+    {
+      "source": "Prevotella sp CAG 1092",
+      "target": "Clostridium sp CAG 510",
+      "value": 0.14157973174366617
+    },
+    {
+      "source": "Prevotella sp CAG 1124",
+      "target": "Phascolarctobacterium sp CAG 266",
+      "value": 0.19374068554396423
+    },
+    {
+      "source": "Prevotella sp CAG 1185",
+      "target": "Clostridium sp CAG 253",
+      "value": 0.13412816691505217
+    },
+    {
+      "source": "Prevotella sp CAG 1320",
+      "target": "Bacteroides sp CAG 462",
+      "value": 0.2816691505216095
+    },
+    {
+      "source": "Prevotella sp CAG 279",
+      "target": "Lactobacillus crispatus",
+      "value": 0.04769001490312966
+    },
+    {
+      "source": "Prevotella sp CAG 485",
+      "target": "Prevotella sp CAG 1031",
+      "value": 0.2816691505216095
+    },
+    {
+      "source": "Prevotella sp CAG 520",
+      "target": "Prevotella stercorea",
+      "value": 0.6140089418777943
+    },
+    {
+      "source": "Prevotella sp CAG 5226",
+      "target": "Prevotella sp 885",
+      "value": 0.16393442622950818
+    },
+    {
+      "source": "Prevotella sp CAG 617",
+      "target": "Parabacteroides sp CAG 409",
+      "value": 0.2414307004470939
+    },
+    {
+      "source": "Prevotella sp CAG 755",
+      "target": "Prevotella sp CAG 1185",
+      "value": 0.16840536512667661
+    },
+    {
+      "source": "Prevotella sp CAG 873",
+      "target": "Firmicutes bacterium CAG 791",
+      "value": 0.19225037257824143
+    },
+    {
+      "source": "Prevotella sp CAG 891",
+      "target": "Fusobacterium mortiferum",
+      "value": 0.22354694485842028
+    },
+    {
+      "source": "Prevotella sp CAG 924",
+      "target": "Haemophilus pittmaniae",
+      "value": 0.20566318926974664
+    },
+    {
+      "source": "Prevotella sp S7 1 8",
+      "target": "Prevotella colorans",
+      "value": 0.31892697466467956
+    },
+    {
+      "source": "Prevotella sp oral taxon 306",
+      "target": "Prevotella melaninogenica",
+      "value": 0.12071535022354694
+    },
+    {
+      "source": "Prevotella sp oral taxon 473",
+      "target": "Megasphaera elsdenii",
+      "value": 0.22056631892697467
+    },
+    {
+      "source": "Prevotella stercorea",
+      "target": "Prevotella sp CAG 520",
+      "value": 0.13114754098360656
+    },
+    {
+      "source": "Prevotella timonensis",
+      "target": "Porphyromonas sp HMSC065F10",
+      "value": 0.14754098360655737
+    },
+    {
+      "source": "Propionibacterium acidifaciens",
+      "target": "Actinomyces oris",
+      "value": 0.18777943368107303
+    },
+    {
+      "source": "Propionibacterium freudenreichii",
+      "target": "Eubacterium sp CAG 251",
+      "value": 0.12071535022354694
+    },
+    {
+      "source": "Proteobacteria bacterium CAG 139",
+      "target": "Turicimonas muris",
+      "value": 0.4873323397913562
+    },
+    {
+      "source": "Proteus hauseri",
+      "target": "Citrobacter werkmanii",
+      "value": 0.11326378539493294
+    },
+    {
+      "source": "Proteus mirabilis",
+      "target": "Clostridium symbiosum",
+      "value": 0.12071535022354694
+    },
+    {
+      "source": "Proteus penneri",
+      "target": "Morganella morganii",
+      "value": 0.14456035767511177
+    },
+    {
+      "source": "Proteus vulgaris",
+      "target": "Enterococcus gallinarum",
+      "value": 0.14605067064083457
+    },
+    {
+      "source": "Pseudoflavonifractor capillosus",
+      "target": "Ruminococcaceae bacterium D16",
+      "value": 0.15201192250372578
+    },
+    {
+      "source": "Pseudoflavonifractor sp An184",
+      "target": "Clostridium saccharolyticum",
+      "value": 0.17138599105812222
+    },
+    {
+      "source": "Pseudomonas aeruginosa group",
+      "target": "Catabacter hongkongensis",
+      "value": 0.12816691505216096
+    },
+    {
+      "source": "Pseudomonas fragi",
+      "target": "Bifidobacterium angulatum",
+      "value": 0.15499254843517138
+    },
+    {
+      "source": "Pseudomonas lundensis",
+      "target": "Leuconostoc lactis",
+      "value": 0.26229508196721313
+    },
+    {
+      "source": "Pseudopropionibacterium propionicum",
+      "target": "Actinomyces naeslundii",
+      "value": 0.11773472429210134
+    },
+    {
+      "source": "Pyramidobacter piscolens",
+      "target": "Pyramidobacter sp C12 8",
+      "value": 0.23248882265275708
+    },
+    {
+      "source": "Pyramidobacter sp C12 8",
+      "target": "Pyramidobacter piscolens",
+      "value": 0.33681073025335323
+    },
+    {
+      "source": "Ralstonia pickettii",
+      "target": "Lactococcus lactis",
+      "value": 0.22354694485842028
+    },
+    {
+      "source": "Raoultella ornithinolytica",
+      "target": "Raoultella planticola",
+      "value": 0.323397913561848
+    },
+    {
+      "source": "Raoultella planticola",
+      "target": "Raoultella ornithinolytica",
+      "value": 0.17287630402384502
+    },
+    {
+      "source": "Rhodococcus erythropolis",
+      "target": "Pseudomonas fragi",
+      "value": 0.23099850968703428
+    },
+    {
+      "source": "Rhodococcus qingshengii",
+      "target": "Collinsella massiliensis",
+      "value": 0.16095380029806258
+    },
+    {
+      "source": "Rikenella microfusus",
+      "target": "Pseudoflavonifractor capillosus",
+      "value": 0.293591654247392
+    },
+    {
+      "source": "Robinsoniella sp RHS",
+      "target": "Blautia coccoides",
+      "value": 0.14157973174366617
+    },
+    {
+      "source": "Romboutsia ilealis",
+      "target": "Turicibacter sanguinis",
+      "value": 0.14605067064083457
+    },
+    {
+      "source": "Roseburia faecis",
+      "target": "Faecalibacterium prausnitzii",
+      "value": 0.09538002980625931
+    },
+    {
+      "source": "Roseburia hominis",
+      "target": "Roseburia sp CAG 182",
+      "value": 0.04769001490312966
+    },
+    {
+      "source": "Roseburia intestinalis",
+      "target": "Veillonella infantium",
+      "value": 0.11475409836065574
+    },
+    {
+      "source": "Roseburia inulinivorans",
+      "target": "Roseburia intestinalis",
+      "value": 0.05365126676602087
+    },
+    {
+      "source": "Roseburia sp 831b",
+      "target": "Prevotella sp CAG 1092",
+      "value": 0.17138599105812222
+    },
+    {
+      "source": "Roseburia sp CAG 182",
+      "target": "Sharpea azabuensis",
+      "value": 0.10879284649776454
+    },
+    {
+      "source": "Roseburia sp CAG 303",
+      "target": "Eubacterium ramulus",
+      "value": 0.11624441132637854
+    },
+    {
+      "source": "Roseburia sp CAG 309",
+      "target": "Roseburia intestinalis",
+      "value": 0.09985096870342772
+    },
+    {
+      "source": "Roseburia sp CAG 471",
+      "target": "Romboutsia ilealis",
+      "value": 0.08047690014903129
+    },
+    {
+      "source": "Rothia aeria",
+      "target": "Rothia dentocariosa",
+      "value": 0.14157973174366617
+    },
+    {
+      "source": "Rothia dentocariosa",
+      "target": "Rothia mucilaginosa",
+      "value": 0.20268256333830104
+    },
+    {
+      "source": "Rothia mucilaginosa",
+      "target": "Rothia dentocariosa",
+      "value": 0.13263785394932937
+    },
+    {
+      "source": "Ruminococcaceae bacterium D16",
+      "target": "Pseudoflavonifractor capillosus",
+      "value": 0.11475409836065574
+    },
+    {
+      "source": "Ruminococcaceae bacterium D5",
+      "target": "Candidatus Methanomassiliicoccus intestinalis",
+      "value": 0.09538002980625931
+    },
+    {
+      "source": "Ruminococcus bicirculans",
+      "target": "Citrobacter europaeus",
+      "value": 0.06408345752608048
+    },
+    {
+      "source": "Ruminococcus bromii",
+      "target": "Prevotella copri",
+      "value": 0.029806259314456036
+    },
+    {
+      "source": "Ruminococcus callidus",
+      "target": "Blautia sp N6H1 15",
+      "value": 0.18926974664679583
+    },
+    {
+      "source": "Ruminococcus gnavus",
+      "target": "Erysipelatoclostridium ramosum",
+      "value": 0.13263785394932937
+    },
+    {
+      "source": "Ruminococcus lactaris",
+      "target": "Dorea longicatena",
+      "value": 0.044709388971684055
+    },
+    {
+      "source": "Ruminococcus obeum CAG 39",
+      "target": "Blautia obeum",
+      "value": 0.21460506706408347
+    },
+    {
+      "source": "Ruminococcus sp CAG 330",
+      "target": "Ruminococcus bicirculans",
+      "value": 0.08345752608047691
+    },
+    {
+      "source": "Ruminococcus sp CAG 403",
+      "target": "Coprococcus eutactus",
+      "value": 0.10432190760059612
+    },
+    {
+      "source": "Ruminococcus sp CAG 488",
+      "target": "Ruminococcus sp CAG 563",
+      "value": 0.23845007451564829
+    },
+    {
+      "source": "Ruminococcus sp CAG 563",
+      "target": "Clostridium sp CAG 632",
+      "value": 0.15350223546944858
+    },
+    {
+      "source": "Ruminococcus sp CAG 579",
+      "target": "Bacteroides sp OM05 12",
+      "value": 0.19225037257824143
+    },
+    {
+      "source": "Ruminococcus sp CAG 624",
+      "target": "Firmicutes bacterium CAG 238",
+      "value": 0.26825633383010433
+    },
+    {
+      "source": "Ruminococcus torques",
+      "target": "Dorea formicigenerans",
+      "value": 0.10730253353204174
+    },
+    {
+      "source": "Ruthenibacterium lactatiformans",
+      "target": "Clostridium innocuum",
+      "value": 0.12965722801788376
+    },
+    {
+      "source": "Saccharomyces cerevisiae",
+      "target": "Eubacterium ventriosum",
+      "value": 0.17287630402384502
+    },
+    {
+      "source": "Sanguibacteroides justesenii",
+      "target": "Odoribacter splanchnicus",
+      "value": 0.10283159463487332
+    },
+    {
+      "source": "Scardovia wiggsiae",
+      "target": "Atopobium parvulum",
+      "value": 0.16095380029806258
+    },
+    {
+      "source": "Selenomonas noxia",
+      "target": "Bacteroides fragilis",
+      "value": 0.15499254843517138
+    },
+    {
+      "source": "Selenomonas sputigena",
+      "target": "Fusobacterium nucleatum",
+      "value": 0.2429210134128167
+    },
+    {
+      "source": "Sellimonas intestinalis",
+      "target": "Blautia sp CAG 257",
+      "value": 0.11326378539493294
+    },
+    {
+      "source": "Serratia marcescens",
+      "target": "Roseburia sp CAG 303",
+      "value": 0.09836065573770492
+    },
+    {
+      "source": "Sharpea azabuensis",
+      "target": "Catenibacterium mitsuokai",
+      "value": 0.4992548435171386
+    },
+    {
+      "source": "Slackia exigua",
+      "target": "Dialister pneumosintes",
+      "value": 0.14456035767511177
+    },
+    {
+      "source": "Slackia isoflavoniconvertens",
+      "target": "Denitrobacterium detoxificans",
+      "value": 0.20864381520119224
+    },
+    {
+      "source": "Sneathia amnii",
+      "target": "Mageeibacillus indolicus",
+      "value": 0.12667660208643816
+    },
+    {
+      "source": "Solobacterium moorei",
+      "target": "Dialister pneumosintes",
+      "value": 0.2414307004470939
+    },
+    {
+      "source": "Staphylococcus aureus",
+      "target": "Enterococcus gallinarum",
+      "value": 0.18777943368107303
+    },
+    {
+      "source": "Staphylococcus epidermidis",
+      "target": "Enterococcus faecium",
+      "value": 0.17585692995529062
+    },
+    {
+      "source": "Staphylococcus equorum",
+      "target": "Intestinibacter bartlettii",
+      "value": 0.12667660208643816
+    },
+    {
+      "source": "Staphylococcus hominis",
+      "target": "Staphylococcus epidermidis",
+      "value": 0.22950819672131148
+    },
+    {
+      "source": "Staphylococcus xylosus",
+      "target": "Clostridium sp CAG 632",
+      "value": 0.23099850968703428
+    },
+    {
+      "source": "Stenotrophomonas maltophilia",
+      "target": "Cutibacterium acnes",
+      "value": 0.12816691505216096
+    },
+    {
+      "source": "Stenotrophomonas pavanii",
+      "target": "Stenotrophomonas maltophilia",
+      "value": 0.18032786885245902
+    },
+    {
+      "source": "Stenotrophomonas rhizophila",
+      "target": "Cutibacterium acnes",
+      "value": 0.20566318926974664
+    },
+    {
+      "source": "Stomatobaculum longum",
+      "target": "Oribacterium sinus",
+      "value": 0.16095380029806258
+    },
+    {
+      "source": "Streptococcus agalactiae",
+      "target": "Gemella morbillorum",
+      "value": 0.27421758569299554
+    },
+    {
+      "source": "Streptococcus anginosus group",
+      "target": "Finegoldia magna",
+      "value": 0.22801788375558868
+    },
+    {
+      "source": "Streptococcus australis",
+      "target": "Gemella sanguinis",
+      "value": 0.2965722801788376
+    },
+    {
+      "source": "Streptococcus cristatus",
+      "target": "Streptococcus gordonii",
+      "value": 0.2518628912071535
+    },
+    {
+      "source": "Streptococcus downei",
+      "target": "Lactobacillus salivarius",
+      "value": 0.26527570789865873
+    },
+    {
+      "source": "Streptococcus equinus",
+      "target": "Enterococcus casseliflavus",
+      "value": 0.19523099850968703
+    },
+    {
+      "source": "Streptococcus gallolyticus",
+      "target": "Streptococcus macedonicus",
+      "value": 0.2414307004470939
+    },
+    {
+      "source": "Streptococcus gordonii",
+      "target": "Streptococcus oralis",
+      "value": 0.20864381520119224
+    },
+    {
+      "source": "Streptococcus infantarius",
+      "target": "Streptococcus lutetiensis",
+      "value": 0.5216095380029806
+    },
+    {
+      "source": "Streptococcus infantis",
+      "target": "Streptococcus mitis",
+      "value": 0.2503725782414307
+    },
+    {
+      "source": "Streptococcus lutetiensis",
+      "target": "Veillonella sp T11011 6",
+      "value": 0.18330849478390462
+    },
+    {
+      "source": "Streptococcus macedonicus",
+      "target": "Lactococcus petauri",
+      "value": 0.20864381520119224
+    },
+    {
+      "source": "Streptococcus milleri",
+      "target": "Solobacterium moorei",
+      "value": 0.17734724292101342
+    },
+    {
+      "source": "Streptococcus mitis",
+      "target": "Streptococcus anginosus group",
+      "value": 0.18181818181818182
+    },
+    {
+      "source": "Streptococcus mutans",
+      "target": "Streptococcus gordonii",
+      "value": 0.21907600596125187
+    },
+    {
+      "source": "Streptococcus oralis",
+      "target": "Streptococcus anginosus group",
+      "value": 0.18926974664679583
+    },
+    {
+      "source": "Streptococcus parasanguinis",
+      "target": "Streptococcus oralis",
+      "value": 0.21013412816691504
+    },
+    {
+      "source": "Streptococcus parauberis",
+      "target": "Lactococcus raffinolactis",
+      "value": 0.2786885245901639
+    },
+    {
+      "source": "Streptococcus pasteurianus",
+      "target": "Actinomyces graevenitzii",
+      "value": 0.13561847988077497
+    },
+    {
+      "source": "Streptococcus peroris",
+      "target": "Bifidobacterium bifidum",
+      "value": 0.10730253353204174
+    },
+    {
+      "source": "Streptococcus pneumoniae",
+      "target": "Streptococcus mitis",
+      "value": 0.14456035767511177
+    },
+    {
+      "source": "Streptococcus pseudopneumoniae",
+      "target": "Streptococcus mitis",
+      "value": 0.2399403874813711
+    },
+    {
+      "source": "Streptococcus salivarius",
+      "target": "Streptococcus parasanguinis",
+      "value": 0.4083457526080477
+    },
+    {
+      "source": "Streptococcus salivarius CAG 79",
+      "target": "Haemophilus sp HMSC71H05",
+      "value": 0.16393442622950818
+    },
+    {
+      "source": "Streptococcus sanguinis",
+      "target": "Streptococcus gordonii",
+      "value": 0.18181818181818182
+    },
+    {
+      "source": "Streptococcus sinensis",
+      "target": "Streptococcus sanguinis",
+      "value": 0.21907600596125187
+    },
+    {
+      "source": "Streptococcus sobrinus",
+      "target": "Streptococcus mutans",
+      "value": 0.32786885245901637
+    },
+    {
+      "source": "Streptococcus sp A12",
+      "target": "Streptococcus australis",
+      "value": 0.34575260804769004
+    },
+    {
+      "source": "Streptococcus sp F0442",
+      "target": "Streptococcus parasanguinis",
+      "value": 0.21013412816691504
+    },
+    {
+      "source": "Streptococcus sp HMSC034E03",
+      "target": "Eubacterium sulci",
+      "value": 0.17883755588673622
+    },
+    {
+      "source": "Streptococcus sp HMSC067H01",
+      "target": "Streptococcus australis",
+      "value": 0.20566318926974664
+    },
+    {
+      "source": "Streptococcus sp HMSC071D03",
+      "target": "Klebsiella michiganensis",
+      "value": 0.12220566318926974
+    },
+    {
+      "source": "Streptococcus sp HPH0090",
+      "target": "Streptococcus parasanguinis",
+      "value": 0.21907600596125187
+    },
+    {
+      "source": "Streptococcus sp M334",
+      "target": "Streptococcus mitis",
+      "value": 0.2429210134128167
+    },
+    {
+      "source": "Streptococcus sp NLAE zl C503",
+      "target": "Streptococcus vestibularis",
+      "value": 0.12667660208643816
+    },
+    {
+      "source": "Streptococcus thermophilus",
+      "target": "Lactobacillus delbrueckii",
+      "value": 0.11773472429210134
+    },
+    {
+      "source": "Streptococcus vestibularis",
+      "target": "Streptococcus salivarius",
+      "value": 0.2414307004470939
+    },
+    {
+      "source": "Streptococcus viridans",
+      "target": "Streptococcus anginosus group",
+      "value": 0.19076005961251863
+    },
+    {
+      "source": "Subdoligranulum variabile",
+      "target": "Flavonifractor sp An100",
+      "value": 0.14903129657228018
+    },
+    {
+      "source": "Succinatimonas hippei",
+      "target": "Phascolarctobacterium sp CAG 266",
+      "value": 0.17585692995529062
+    },
+    {
+      "source": "Terrisporobacter othiniensis",
+      "target": "Clostridium paraputrificum",
+      "value": 0.23397913561847988
+    },
+    {
+      "source": "Thermoleophilum album",
+      "target": "Fretibacterium fastidiosum",
+      "value": 0.46199701937406856
+    },
+    {
+      "source": "Tissierellia bacterium KA00581",
+      "target": "Streptococcus milleri",
+      "value": 0.16989567809239942
+    },
+    {
+      "source": "Treponema berlinense",
+      "target": "Treponema succinifaciens",
+      "value": 0.4008941877794337
+    },
+    {
+      "source": "Treponema succinifaciens",
+      "target": "Ruminococcus sp CAG 563",
+      "value": 0.33979135618479883
+    },
+    {
+      "source": "Tropheryma whipplei",
+      "target": "Megamonas hypermegale",
+      "value": 0.14157973174366617
+    },
+    {
+      "source": "Turicibacter sanguinis",
+      "target": "Clostridium disporicum",
+      "value": 0.30849478390462
+    },
+    {
+      "source": "Turicimonas muris",
+      "target": "Proteobacteria bacterium CAG 139",
+      "value": 0.19523099850968703
+    },
+    {
+      "source": "Tyzzerella nexilis",
+      "target": "Ruminococcus gnavus",
+      "value": 0.3353204172876304
+    },
+    {
+      "source": "Varibaculum cambriense",
+      "target": "Actinomyces turicensis",
+      "value": 0.21907600596125187
+    },
+    {
+      "source": "Veillonella atypica",
+      "target": "Veillonella infantium",
+      "value": 0.2473919523099851
+    },
+    {
+      "source": "Veillonella denticariosi",
+      "target": "Veillonella sp T11011 6",
+      "value": 0.2548435171385991
+    },
+    {
+      "source": "Veillonella dispar",
+      "target": "Veillonella infantium",
+      "value": 0.496274217585693
+    },
+    {
+      "source": "Veillonella infantium",
+      "target": "Veillonella dispar",
+      "value": 0.5171385991058122
+    },
+    {
+      "source": "Veillonella parvula",
+      "target": "Ruminococcus gnavus",
+      "value": 0.13263785394932937
+    },
+    {
+      "source": "Veillonella rodentium",
+      "target": "Veillonella parvula",
+      "value": 0.26229508196721313
+    },
+    {
+      "source": "Veillonella rogosae",
+      "target": "Veillonella infantium",
+      "value": 0.3502235469448584
+    },
+    {
+      "source": "Veillonella seminalis",
+      "target": "Bifidobacterium bifidum",
+      "value": 0.18330849478390462
+    },
+    {
+      "source": "Veillonella sp CAG 933",
+      "target": "Bifidobacterium breve",
+      "value": 0.15797317436661698
+    },
+    {
+      "source": "Veillonella sp T11011 6",
+      "target": "Veillonella dispar",
+      "value": 0.368107302533532
+    },
+    {
+      "source": "Veillonella tobetsuensis",
+      "target": "Veillonella atypica",
+      "value": 0.30104321907600595
+    },
+    {
+      "source": "Veillonellaceae bacterium DNF00626",
+      "target": "Prevotella timonensis",
+      "value": 0.14605067064083457
+    },
+    {
+      "source": "Victivallis vadensis",
+      "target": "Cutibacterium acnes",
+      "value": 0.18032786885245902
+    },
+    {
+      "source": "Weissella cibaria",
+      "target": "Weissella confusa",
+      "value": 0.30402384500745155
+    },
+    {
+      "source": "Weissella confusa",
+      "target": "Weissella cibaria",
+      "value": 0.29508196721311475
+    },
+    {
+      "source": "Weissella viridescens",
+      "target": "Lactobacillus sakei",
+      "value": 0.293591654247392
+    }
+  ]
+}

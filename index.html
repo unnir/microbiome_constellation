@@ -1,55 +1,62 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gut Microbiome Constellation</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-    <div class="top-bar">
-        <div class="toolbar">
-
-            <button id="resetGraph" class="reset-button">Reset Graph</button>
-
-            <input type="text" id="featureInput" placeholder="Enter species name (e.g., Actinomyces oris)" list="featureList">
-            <datalist id="featureList"></datalist>
-            <button id="filterButton">Show Connections</button>
-            
-            <!-- Threshold label and slider -->
+    <header class="top-bar">
+        <nav class="toolbar">
+            <button id="resetGraph" class="toolbar-button">
+                <i class="fas fa-undo"></i> Reset Graph
+            </button>
+            <div class="search-container">
+                <input type="text" id="featureInput" placeholder="Enter species name" list="featureList">
+                <datalist id="featureList"></datalist>
+                <button id="filterButton" class="toolbar-button">
+                    <i class="fas fa-search"></i> Show Connections
+                </button>
+            </div>
             <div class="threshold-container">
                 <label for="thresholdSlider" class="threshold-label">Filter Connections</label>
-                <input type="range" id="thresholdSlider" min="0.05" max="1" step="0.01" value="0.75">
-                <span id="thresholdValue">0.75</span>
+                <input type="range" id="thresholdSlider" min="0.00" max="0.35" step="0.01" value="0.0">
+                <span id="thresholdValue">0.00</span>
             </div>
-
-            <button id="zoom_in" class="icon-button" onclick="zoomIn()">
-                <img src="in.png" alt="Zoom In">
+            <div class="zoom-controls">
+                <button id="zoom_in" class="toolbar-button" onclick="zoomIn()">
+                    <i class="fas fa-search-plus"></i>
+                </button>
+                <button id="zoom_out" class="toolbar-button" onclick="zoomOut()">
+                    <i class="fas fa-search-minus"></i>
+                </button>
+            </div>
+            <button id="themeToggle" class="toolbar-button">
+                <i class="fas fa-moon"></i>
             </button>
-                        
-            <button id="zoom_out" class="icon-button" onclick="zoomOut()">
-                <img src="out.png" alt="Zoom Out">
-            </button>
-
-            <!-- Link to the About page -->
             <a href="about.html" class="toolbar-button">About</a>
+        </nav>
+    </header>
+
+    <main>
+        <div id="graph"></div>
+        <div id="infoWindow" class="info-window">
+            <div class="info-window-content">
+                <button id="closeInfoWindow" class="close-button">&times;</button>
+                <h2>Graph Information</h2>
+                <p>This interactive graph presents the Gut Microbiome Constellation, depicting a network of associations between microbial species in the human gut. Each point (node) represents a distinct microorganism, and the lines (edges) illustrate potential relationships between them.</p>
+                <p>These connections are inferred using an association network inference approach based on predictive modeling. For each species, a machine learning model predicts its abundance using all other species as features. The most important predictive features are then used to establish network connections.</p>
+                <p>While this method reveals strong associations within the microbiome, it's important to note that these connections do not necessarily imply causation. The network provides insights into potential ecological relationships and interactions between gut microbes.</p>
+            </div>
         </div>
-    </div>
-
-        <!-- Floating Info Window -->
-    <div id="infoWindow" class="info-window">
-        <div class="info-window-content">
-            <span class="close" id="closeInfoWindow">&times;</span>
-            <h2>Graph Information</h2>
-            <p>This interactive graph presents the Gut Microbiome Constellation, depicting the complex network of species in the human gut. Each point (node) represents a distinct microorganism, and the lines (edges) illustrate direct relationships between them. These connections, revealed using the Graphical Lasso algorithm, highlight significant interactions within the microbiome.</p>
         </div>
-    </div>
-    
+    </main>
 
-    <div id="graph"></div>
-
-    <div class="bottom-bar">
-        <span>Microbiome Constellation &copy;<script>document.write(new Date().getFullYear());</script> TMS lab, University Hospital Tuebingen, Germany</span>
-    </div>
+    <footer class="bottom-bar">
+        <p>Microbiome Constellation &copy; <span id="currentYear"></span> TMS lab, University Hospital Tuebingen, Germany</p>
+    </footer>
 
     <script src="https://d3js.org/d3.v6.min.js"></script>
     <script src="script.js"></script>

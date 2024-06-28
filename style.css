@@ -1,15 +1,42 @@
-body, html {
+:root {
+    --bg-color: #ffffff;
+    --text-color: #333333;
+    --toolbar-bg: #bcac74;
+    --toolbar-text: #ffffff;
+    --link-color: #999999;
+    --node-color: #0000ff;
+    --info-window-bg: rgba(255, 255, 255, 0.8);
+    --info-window-text: #333333;
+}
+
+body.dark-theme {
+    --bg-color: #1a1a1a;
+    --text-color: #f0f0f0;
+    --toolbar-bg: #4a4a4a;
+    --toolbar-text: #ffffff;
+    --link-color: #666666;
+    --node-color: #00aaff;
+    --info-window-bg: rgba(40, 40, 40, 0.8);
+    --info-window-text: #f0f0f0;
+}
+
+html, body {
+    height: 100%;
     margin: 0;
     padding: 0;
-    height: 100%;
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; /* Add Helvetica Neue */
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 .top-bar {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #bcac74;
+    background-color: var(--toolbar-bg);
     padding: 10px;
 }
 
@@ -21,280 +48,143 @@ body, html {
     width: 100%;
 }
 
-
-.toolbar input, .toolbar button {
-    margin: 5px;
+.toolbar-button {
+    color: var(--toolbar-text);
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 5px 10px;
+    transition: opacity 0.3s ease;
 }
 
-#thresholdSlider {
-    width: 80%; /* Adjust to your preference */
+.toolbar-button:hover {
+    opacity: 0.8;
 }
 
-#zoom_in, #zoom_out {
-    /* Removed fixed positioning */
+main {
+    flex: 1 0 auto;
 }
 
 #graph {
     width: 100%;
-    height: calc(100vh - 100px); /* Adjust height based on total header/footer height */
+    height: calc(100vh - 120px); /* Adjusted for top and bottom bars */
     overflow: auto;
 }
 
-.reset-button {
-    background-color: #bcac74;
-    color: white;
-    border: none;
-    padding: 10px 15px;
-    margin-right: auto;
-    cursor: pointer;
-    font-size: 16px; /* Explicitly set the font size */
-}
-
-.bottom-bar {
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    background-color: #d3c992; /* Lighter shade of #bcac74 */
-    color: white;
-    text-align: center;
-    padding: 10px;
-}
-
 .links line {
-    stroke: #999;  /* Gray color for the links */
+    stroke: var(--link-color);
     stroke-opacity: 0.6;
-    stroke-width: 4;  /* Makes the links more visible */
+    stroke-width: 4;
 }
 
 .nodes circle {
-    stroke: #fff;  /* White border for the nodes */
+    stroke: var(--bg-color);
     stroke-width: 1.5px;
-    fill: blue;  /* Fill color for the nodes */
+    fill: var(--node-color);
 }
 
 .labels text {
     font-size: 12px;
-    fill: #333;  /* Color for the text labels */
-    font-style: italic; /* Make the labels italic */
-
+    fill: var(--text-color);
+    font-style: italic;
 }
 
-/* Responsive Design */
-@media (max-width: 600px) {
-    .toolbar {
-        flex-direction: column;
-    }
-
-    #graph {
-        height: calc(100vh - 150px); /* Adjust for smaller screens */
-    }
+.info-window {
+    position: fixed;
+    top: 15%;
+    left: 85%;
+    transform: translate(-50%, -50%);
+    width: 60%;
+    max-width: 500px;
+    background-color: var(--info-window-bg);
+    color: var(--info-window-text);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    display: none;
 }
 
-.icon-button img {
-    height: 20px; /* Adjust the size to fit your design */
-    width: auto;
-    display: block; /* This will allow you to center it if needed */
-}
-
-/* Ensure the buttons don't take up too much space */
-.icon-button {
-    width: auto; /* or you can set a specific size */
-    height: auto; /* or you can set a specific size */
-    padding: 2px; /* Adjust padding to your preference */
-    margin: 0 10px; /* Add some space around the buttons */
-    display: inline-block; /* This will treat the button like an image */
+.close-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
     background: none;
     border: none;
+    font-size: 24px;
     cursor: pointer;
-    color: black; /* Change icon color */
-
+    color: var(--info-window-text);
 }
 
-/* Add more specific media queries if you want to adjust sizes on different screen sizes */
-@media (max-width: 768px) {
-    .icon-button img {
-        height: 30px; /* Smaller size for smaller screens */
-    }
-}
-
-/* Styles for About Page */
-.content {
-    margin: 20px;
-    padding: 20px;
-    background-color: #f9f9f9;
-    border-radius: 10px;
-}
-
-.home-link, .page-title {
-    color: white;
-    text-decoration: none;
-    margin: 10px;
-    font-weight: bold;
-}
-
-.home-link:hover {
-    text-decoration: underline;
-}
-
-.page-title {
-    margin-left: 20px;
-}
-
-/* Style for toolbar buttons and links */
-.toolbar-button {
-    color: white;
-    background-color: transparent;
-    padding: 10px 15px;
-    border: none;
-    cursor: pointer;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    transition-duration: 0.4s;
-}
-
-.toolbar-button:hover {
-    color: #ddd; /* Light grey color on hover */
-}
-
-/* Additional CSS rules */
-#thresholdValue {
-    color: white; /* Set text color to white */
-    margin-left: 10px; /* Space between slider and value */
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; /* Specify font-family */
-
-}
-
-.threshold-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center; /* Aligns children to the center */
-}
-
-.threshold-label {
-    text-align: center; /* Centers the text of the label */
-    display: block; /* Makes label take full width */
-    margin-bottom: 5px; /* Space between label and slider */
-    font-size: 12px;
-    fill: #333;
-    color: white;
-}
-
-
-.icon-button img {
-    filter: brightness(0) invert(1); /* Adjust brightness and invert colors */
-}
-
-/* Enhancements for visual appeal */
 .content {
     max-width: 800px;
     margin: 20px auto;
     padding: 20px;
-    background-color: #f9f9f9;
+    background-color: var(--bg-color);
+    color: var(--text-color);
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .main-title {
-    color: #5c6464; /* Earthy green for titles */
+    color: var(--toolbar-bg);
     text-align: center;
 }
 
 .section {
-    margin-bottom: 30px;
-}
-
-.section img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 10px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
-
-.section p {
-    line-height: 1.6;
-    color: #333;
-    font-size: 16px;
-    margin-top: 20px;
-}
-
-.disclaimer {
-    background-color: #e8e8e8;
-    padding: 15px;
-    border-radius: 8px;
-    margin-top: 30px;
-}
-
-.disclaimer h2 {
-    color: #cc0000; /* Reddish tone for importance */
-}
-
-/* Responsive Design */
-@media (max-width: 768px) {
-    .content {
-        margin: 10px;
-        padding: 15px;
-    }
-}
-
-.studies-section {
-    /* Style for the section */
     margin-bottom: 20px;
 }
 
+.studies-section {
+    margin-top: 30px;
+}
+
 .studies-columns {
-    /* Create a flex container */
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
 }
 
 .column {
-    /* Style for each column */
-    flex: 1; /* Each column takes equal width */
-    margin: 10px; /* Spacing between columns */
-    padding: 5px; /* Padding inside each column */
+    flex: 1;
+    min-width: 200px;
+    margin: 10px;
 }
 
-.column p {
-    /* Style for paragraphs inside columns */
-    margin: 5px 0; /* Spacing between study names */
+.disclaimer {
+    background-color: rgba(255, 0, 0, 0.1);
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 30px;
 }
 
-/* Styles for the Floating Info Window */
-.info-window {
-    position: fixed;
-    width: 300px;
-    padding: 20px;
-    background-color: rgba(255, 255, 255, 0.8); /* Light and semi-transparent background */
-    border-radius: 10px; /* Rounded corners */
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); /* Softer shadow */
-    top: 150px;
-    right: 20px;
-    z-index: 100;
-    display: none; /* Initially hidden */
+.bottom-bar {
+    flex-shrink: 0;
+    background-color: var(--toolbar-bg);
+    color: var(--toolbar-text);
+    padding: 10px 15px;
+    text-align: center;
 }
 
-.info-window-content {
-    text-align: left;
-    color: #333; /* Dark grey text for readability */
+.bottom-bar p {
+    margin: 0;
+    font-size: 14px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
-.close {
-    color: #aaa;
-    float: right;
-    font-size: 28px;
-    font-weight: bold;
-    cursor: pointer;
-}
-
-.close:hover {
-    color: black;
-}
-
-/* Optional: Transparent background for close button for a cleaner look */
-.close {
-    background-color: transparent;
-    border: none;
+@media (max-width: 600px) {
+    .studies-columns {
+        flex-direction: column;
+    }
+    
+    .toolbar {
+        flex-wrap: wrap;
+    }
+    
+    .toolbar-button {
+        font-size: 14px;
+    }
 }

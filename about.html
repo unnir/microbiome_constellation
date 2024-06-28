@@ -18,13 +18,13 @@
         <div class="section">
             <h2>Understanding the Gut Microbiome Constellation</h2>
             <p>
-                This graph represents the complex network of species found in the human gut microbiome, a diverse community of microorganisms, including bacteria, fungi, and viruses. The Graphical Lasso algorithm is used to determine how these species are connected. In the graph:
+                This graph represents a network of associations among species found in the human gut microbiome, a diverse community of microorganisms including bacteria, fungi, and viruses. We use an association network inference approach based on predictive modeling to determine how these species are connected. In the graph:
                 <ul>
-                    <li><strong>Graph Nodes</strong> represent individual species within the gut microbiome.</li>
-                    <li><strong>Connections</strong> (or edges) signify direct relationships between species. A thicker edge indicates a stronger relationship.</li>
-                    <li>Groups of closely interconnected nodes suggest a community within the microbiome with similar functions.</li>
+                    <li><strong>Graph Nodes</strong> represent individual microbial species within the gut microbiome.</li>
+                    <li><strong>Connections</strong> (or edges) signify predictive relationships between species. A thicker edge indicates a stronger predictive association.</li>
+                    <li>Groups of closely interconnected nodes suggest potential ecological communities or functionally related groups within the microbiome.</li>
                 </ul>
-                The interactive graph allows exploration of these complex relationships, offering insights into the potential impact on human health.
+                The interactive graph allows exploration of these complex relationships, offering insights into the structure of microbial communities and their potential impact on human health.
             </p>
         </div>
         <div class="section">
@@ -38,10 +38,7 @@
         </div>
         <div class="section">
             <p>
-                To construct the graph, we employed the graphical lasso technique (more information available 
-                <a href="https://en.wikipedia.org/wiki/Graphical_lasso" target="_blank">here</a>). This method helps identify 
-                direct relationships between microbial species. For instance, if species A and B are directly connected, 
-                alterations in A can have a direct impact on B, and vice versa, regardless of other variables.
+                To construct the graph, we employed a machine learning-based approach. For each microbial species, we train a model to predict its abundance using all other species as features. The most important predictive features, determined by feature importance analysis, are then used to establish network connections. This method reveals strong predictive associations between microbes, which may indicate ecological relationships or shared environmental responses.
             </p>
         </div>
 
